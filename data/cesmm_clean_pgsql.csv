@@ -1,0 +1,291 @@
+id,class_code,class_title,division_level,division_text,rule_type,rule_code,rule_text,order_in_class
+A_HEADER,A,General items,0,General items,,,,1
+A_DIV1_2,A,General items,1,Contractual requirements,,,,2
+A_DIV1_3,A,General items,1,Specified requirements,,,,3
+A_DIV1_4,A,General items,1,Method-related charges,,,,4
+A_DIV1_5,A,General items,1,Temporary works,,,,5
+A_DIV1_6,A,General items,1,Provisional sums,,,,6
+A_DIV1_7,A,General items,1,Prime cost items,,,,7
+A_DIV1_8,A,General items,1,Nominated sub-contractors,,,,8
+A_DIV1_9,A,General items,1,Other provisional sums,,,,9
+B_HEADER,B,Ground investigation,0,Ground investigation,,,,1
+B_DIV1_2,B,Ground investigation,1,Trial pits and trenches,,,,2
+B_DIV1_3,B,Ground investigation,1,Light cable percussion boreholes,,,,3
+B_DIV1_4,B,Ground investigation,1,Rotary drilled boreholes,,,,4
+B_DIV1_5,B,Ground investigation,1,Samples,,,,5
+B_DIV1_6,B,Ground investigation,1,Site tests and observations,,,,6
+B_DIV1_7,B,Ground investigation,1,Instrumental observations,,,,7
+B_DIV1_8,B,Ground investigation,1,Laboratory tests,,,,8
+B_DIV1_9,B,Ground investigation,1,Professional services,,,,9
+C_HEADER,C,Geotechnical and other specialist processes,0,Geotechnical and other specialist processes,,,,1
+C_DIV1_2,C,Geotechnical and other specialist processes,1,Grout holes,,,,2
+C_DIV1_3,C,Geotechnical and other specialist processes,1,Grout materials and injection,,,,3
+C_DIV1_4,C,Geotechnical and other specialist processes,1,Diaphragm walls,,,,4
+C_DIV1_5,C,Geotechnical and other specialist processes,1,Ground anchorages,,,,5
+C_DIV1_6,C,Geotechnical and other specialist processes,1,Sand drains,,,,6
+C_DIV1_7,C,Geotechnical and other specialist processes,1,Band drains,,,,7
+C_DIV1_8,C,Geotechnical and other specialist processes,1,Wick drains,,,,8
+D_HEADER,D,Demolition and site clearance,0,Demolition and site clearance,,,,1
+D_DIV1_2,D,Demolition and site clearance,1,General clearance,,,,2
+D_DIV1_3,D,Demolition and site clearance,1,Trees,,,,3
+D_DIV1_4,D,Demolition and site clearance,1,Stumps,,,,4
+D_DIV1_5,D,Demolition and site clearance,1,Buildings and structures,,,,5
+D_DIV1_6,D,Demolition and site clearance,1,Pipelines and ancillaries,,,,6
+E_HEADER,E,Earthworks,0,Earthworks,,,,1
+E_DIV1_2,E,Earthworks,1,Excavation by dredging,,,,2
+E_DIV1_3,E,Earthworks,1,Excavation for cuttings,,,,3
+E_DIV1_4,E,Earthworks,1,Excavation for foundations,,,,4
+E_DIV1_5,E,Earthworks,1,General excavation,,,,5
+E_DIV1_6,E,Earthworks,1,Excavation ancillaries,,,,6
+E_DIV1_7,E,Earthworks,1,Filling,,,,7
+E_DIV1_8,E,Earthworks,1,Filling ancillaries,,,,8
+E_DIV1_9,E,Earthworks,1,Landscaping,,,,9
+E_DIV2_10,E,Earthworks,2,Topsoil,,,,10
+E_DIV2_11,E,Earthworks,2,Other material,,,,11
+E_DIV2_12,E,Earthworks,2,Rock,,,,12
+E_DIV2_13,E,Earthworks,2,Artificial hard material exposed,,,,13
+E_DIV2_14,E,Earthworks,2,Artificial hard material not exposed,,,,14
+E_DIV3_15,E,Earthworks,3,Depth not exceeding 0.25 m,,,,15
+E_DIV3_16,E,Earthworks,3,0.25–0.5 m,,,,16
+E_DIV3_17,E,Earthworks,3,0.5–1 m,,,,17
+E_DIV3_18,E,Earthworks,3,1–2 m,,,,18
+E_DIV3_19,E,Earthworks,3,2–5 m,,,,19
+E_DIV3_20,E,Earthworks,3,5–10 m,,,,20
+E_DIV3_21,E,Earthworks,3,10–15 m,,,,21
+E_DIV3_22,E,Earthworks,3,Exceeding 15 m,,,,22
+F_HEADER,F,In situ concrete,0,In situ concrete,,,,1
+F_DIV1_2,F,In situ concrete,1,Provision of concrete,,,,2
+F_DIV1_3,F,In situ concrete,1,Concrete placing,,,,3
+F_DIV2_4,F,In situ concrete,2,Grades / strengths of concrete,,,,4
+F_DIV3_5,F,In situ concrete,3,Member size or depth categories,,,,5
+G_HEADER,G,Concrete ancillaries,0,Concrete ancillaries,,,,1
+G_DIV1_2,G,Concrete ancillaries,1,Formwork types,,,,2
+G_DIV1_3,G,Concrete ancillaries,1,Reinforcement,,,,3
+G_DIV1_4,G,Concrete ancillaries,1,Joints,,,,4
+G_DIV1_5,G,Concrete ancillaries,1,Prestressing,,,,5
+G_DIV2_6,G,Concrete ancillaries,2,"Surface orientation (plane, curved, vertical, horizontal)",,,,6
+G_DIV3_7,G,Concrete ancillaries,3,Widths / depths of formwork and voids,,,,7
+H_HEADER,H,Precast concrete,0,Precast concrete,,,,1
+H_DIV1_2,H,Precast concrete,1,Beams,,,,2
+H_DIV1_3,H,Precast concrete,1,Slabs,,,,3
+H_DIV1_4,H,Precast concrete,1,Units,,,,4
+H_DIV1_5,H,Precast concrete,1,Copings,,,,5
+H_DIV1_6,H,Precast concrete,1,Wall blocks,,,,6
+H_DIV2_7,H,Precast concrete,2,Unit sizes (length/width categories),,,,7
+H_DIV3_8,H,Precast concrete,3,Mass ranges of units,,,,8
+I_HEADER,I,Pipework — pipes,0,Pipework — pipes,,,,1
+I_DIV1_2,I,Pipework — pipes,1,Clay pipes,,,,2
+I_DIV1_3,I,Pipework — pipes,1,Concrete pipes,,,,3
+I_DIV1_4,I,Pipework — pipes,1,Iron pipes,,,,4
+I_DIV1_5,I,Pipework — pipes,1,Steel pipes,,,,5
+I_DIV1_6,I,Pipework — pipes,1,PVC pipes,,,,6
+I_DIV1_7,I,Pipework — pipes,1,GRP pipes,,,,7
+I_DIV1_8,I,Pipework — pipes,1,HDPE pipes,,,,8
+I_DIV1_9,I,Pipework — pipes,1,MDPE pipes,,,,9
+I_DIV2_10,I,Pipework — pipes,2,"Nominal bore ranges (e.g. ≤200mm, 200–300mm, … >1800mm)",,,,10
+I_DIV3_11,I,Pipework — pipes,3,"Depths in trenches (≤1.5m, 1.5–2m, … >4m)",,,,11
+J_HEADER,J,Pipework — fittings and valves,0,Pipework — fittings and valves,,,,1
+J_DIV1_2,J,Pipework — fittings and valves,1,Clay pipe fittings,,,,2
+J_DIV1_3,J,Pipework — fittings and valves,1,Concrete pipe fittings,,,,3
+J_DIV1_4,J,Pipework — fittings and valves,1,Iron fittings,,,,4
+J_DIV1_5,J,Pipework — fittings and valves,1,Steel fittings,,,,5
+J_DIV1_6,J,Pipework — fittings and valves,1,Plastic fittings,,,,6
+J_DIV1_7,J,Pipework — fittings and valves,1,Valves,,,,7
+J_DIV1_8,J,Pipework — fittings and valves,1,Penstocks,,,,8
+K_HEADER,K,Pipework — manholes and ancillaries,0,Pipework — manholes and ancillaries,,,,1
+K_DIV1_2,K,Pipework — manholes and ancillaries,1,Manholes,,,,2
+K_DIV1_3,K,Pipework — manholes and ancillaries,1,Chambers,,,,3
+K_DIV1_4,K,Pipework — manholes and ancillaries,1,Gullies,,,,4
+K_DIV1_5,K,Pipework — manholes and ancillaries,1,Drains,,,,5
+K_DIV1_6,K,Pipework — manholes and ancillaries,1,Ditches,,,,6
+K_DIV1_7,K,Pipework — manholes and ancillaries,1,Culverts,,,,7
+K_DIV2_8,K,Pipework — manholes and ancillaries,2,Crossings,,,,8
+K_DIV2_9,K,Pipework — manholes and ancillaries,2,Reinstatement,,,,9
+K_DIV2_10,K,Pipework — manholes and ancillaries,2,Other ancillaries,,,,10
+L_HEADER,L,Pipework — supports and protection,0,Pipework — supports and protection,,,,1
+L_DIV1_2,L,Pipework — supports and protection,1,Extras to excavation,,,,2
+L_DIV1_3,L,Pipework — supports and protection,1,Special pipe laying methods,,,,3
+L_DIV1_4,L,Pipework — supports and protection,1,Bedding,,,,4
+L_DIV1_5,L,Pipework — supports and protection,1,Wrapping,,,,5
+L_DIV1_6,L,Pipework — supports and protection,1,Lagging,,,,6
+L_DIV2_7,L,Pipework — supports and protection,2,Concrete stools,,,,7
+L_DIV2_8,L,Pipework — supports and protection,2,Thrust blocks,,,,8
+L_DIV2_9,L,Pipework — supports and protection,2,Pipe supports,,,,9
+M_HEADER,M,Structural metalwork,0,Structural metalwork,,,,1
+M_DIV1_2,M,Structural metalwork,1,Main members,,,,2
+M_DIV1_3,M,Structural metalwork,1,Subsidiary members,,,,3
+M_DIV1_4,M,Structural metalwork,1,Frame members,,,,4
+M_DIV1_5,M,Structural metalwork,1,Diaphragms,,,,5
+M_DIV1_6,M,Structural metalwork,1,Bearings,,,,6
+N_HEADER,N,Miscellaneous metalwork,0,Miscellaneous metalwork,,,,1
+N_DIV1_2,N,Miscellaneous metalwork,1,Stairways,,,,2
+N_DIV1_3,N,Miscellaneous metalwork,1,Handrails,,,,3
+N_DIV1_4,N,Miscellaneous metalwork,1,Framing,,,,4
+N_DIV1_5,N,Miscellaneous metalwork,1,Flooring,,,,5
+N_DIV1_6,N,Miscellaneous metalwork,1,Covers,,,,6
+N_DIV1_7,N,Miscellaneous metalwork,1,Tanks,,,,7
+O_HEADER,O,Timber,0,Timber,,,,1
+O_DIV1_2,O,Timber,1,Hardwood components,,,,2
+O_DIV1_3,O,Timber,1,Softwood components,,,,3
+O_DIV1_4,O,Timber,1,Decking,,,,4
+O_DIV1_5,O,Timber,1,Fittings,,,,5
+P_HEADER,P,Piles,0,Piles,,,,1
+P_DIV1_2,P,Piles,1,Bored cast in place,,,,2
+P_DIV1_3,P,Piles,1,Driven cast in place,,,,3
+P_DIV1_4,P,Piles,1,Preformed concrete,,,,4
+P_DIV1_5,P,Piles,1,Steel,,,,5
+P_DIV1_6,P,Piles,1,Timber,,,,6
+P_DIV1_7,P,Piles,1,Isolated steel,,,,7
+P_DIV1_8,P,Piles,1,Interlocking steel,,,,8
+Q_HEADER,Q,Piling ancillaries,0,Piling ancillaries,,,,1
+Q_DIV1_2,Q,Piling ancillaries,1,Casings,,,,2
+Q_DIV1_3,Q,Piling ancillaries,1,Reinforcement,,,,3
+Q_DIV1_4,Q,Piling ancillaries,1,Pile extensions,,,,4
+Q_DIV1_5,Q,Piling ancillaries,1,Pile tests,,,,5
+Q_DIV1_6,Q,Piling ancillaries,1,Pre-boring,,,,6
+Q_DIV1_7,Q,Piling ancillaries,1,Jetting,,,,7
+R_HEADER,R,Roads and pavings,0,Roads and pavings,,,,1
+R_DIV1_2,R,Roads and pavings,1,Sub-bases,,,,2
+R_DIV1_3,R,Roads and pavings,1,Bases,,,,3
+R_DIV1_4,R,Roads and pavings,1,Surfacing,,,,4
+R_DIV1_5,R,Roads and pavings,1,Concrete pavements,,,,5
+R_DIV2_6,R,Roads and pavings,2,Joints,,,,6
+R_DIV2_7,R,Roads and pavings,2,Kerbs,,,,7
+R_DIV2_8,R,Roads and pavings,2,Channels,,,,8
+R_DIV2_9,R,Roads and pavings,2,Light duty pavements,,,,9
+R_DIV2_10,R,Roads and pavings,2,Ancillaries,,,,10
+S_HEADER,S,Rail track,0,Rail track,,,,1
+S_DIV1_2,S,Rail track,1,Track foundations,,,,2
+S_DIV1_3,S,Rail track,1,Rails,,,,3
+S_DIV1_4,S,Rail track,1,Sleepers,,,,4
+S_DIV1_5,S,Rail track,1,Switches,,,,5
+S_DIV1_6,S,Rail track,1,Crossings,,,,6
+T_HEADER,T,Tunnels,0,Tunnels,,,,1
+T_DIV1_2,T,Tunnels,1,Excavation,,,,2
+T_DIV1_3,T,Tunnels,1,Lining,,,,3
+T_DIV1_4,T,Tunnels,1,Ancillaries,,,,4
+T_DIV1_5,T,Tunnels,1,Support,,,,5
+T_DIV1_6,T,Tunnels,1,Stabilization,,,,6
+U_HEADER,U,"Brickwork, blockwork and masonry",0,"Brickwork, blockwork and masonry",,,,1
+U_DIV1_2,U,"Brickwork, blockwork and masonry",1,Common brickwork,,,,2
+U_DIV1_3,U,"Brickwork, blockwork and masonry",1,Facing brickwork,,,,3
+U_DIV1_4,U,"Brickwork, blockwork and masonry",1,Blockwork,,,,4
+U_DIV1_5,U,"Brickwork, blockwork and masonry",1,Ashlar masonry,,,,5
+U_DIV1_6,U,"Brickwork, blockwork and masonry",1,Reinforced brickwork,,,,6
+U_DIV1_7,U,"Brickwork, blockwork and masonry",1,Rubble masonry,,,,7
+V_HEADER,V,Painting,0,Painting,,,,1
+V_DIV1_2,V,Painting,1,Primers,,,,2
+V_DIV1_3,V,Painting,1,Metal painting,,,,3
+V_DIV1_4,V,Painting,1,Timber painting,,,,4
+V_DIV1_5,V,Painting,1,Concrete painting,,,,5
+V_DIV1_6,V,Painting,1,Brick/masonry painting,,,,6
+W_HEADER,W,Waterproofing,0,Waterproofing,,,,1
+W_DIV1_2,W,Waterproofing,1,Damp proofing,,,,2
+W_DIV1_3,W,Waterproofing,1,Tanking,,,,3
+W_DIV1_4,W,Waterproofing,1,Roofing,,,,4
+W_DIV1_5,W,Waterproofing,1,Protective layers,,,,5
+W_DIV1_6,W,Waterproofing,1,Sprayed or brushed waterproofing,,,,6
+X_HEADER,X,Miscellaneous work,0,Miscellaneous work,,,,1
+X_DIV1_2,X,Miscellaneous work,1,Fences,,,,2
+X_DIV1_3,X,Miscellaneous work,1,Gates,,,,3
+X_DIV1_4,X,Miscellaneous work,1,Drainage to structures,,,,4
+X_DIV1_5,X,Miscellaneous work,1,Rock-filled gabions,,,,5
+Y_HEADER,Y,Sewer and water main renovation,0,Sewer and water main renovation,,,,1
+Y_DIV1_2,Y,Sewer and water main renovation,1,Preparation,,,,2
+Y_DIV1_3,Y,Sewer and water main renovation,1,Stabilization,,,,3
+Y_DIV1_4,Y,Sewer and water main renovation,1,Renovation,,,,4
+Y_DIV1_5,Y,Sewer and water main renovation,1,Laterals,,,,5
+Y_DIV1_6,Y,Sewer and water main renovation,1,Water main renovation,,,,6
+Y_DIV1_7,Y,Sewer and water main renovation,1,New manholes,,,,7
+Y_DIV1_8,Y,Sewer and water main renovation,1,Existing manholes,,,,8
+Y_DIV1_9,Y,Sewer and water main renovation,1,Interruptions,,,,9
+Z_HEADER,Z,Simple building works incidental to civil engineering works,0,Simple building works incidental to civil engineering works,,,,1
+Z_DIV1_2,Z,Simple building works incidental to civil engineering works,1,Carpentry and joinery,,,,2
+Z_DIV1_3,Z,Simple building works incidental to civil engineering works,1,Insulation,,,,3
+Z_DIV1_4,Z,Simple building works incidental to civil engineering works,1,Windows and doors,,,,4
+Z_DIV1_5,Z,Simple building works incidental to civil engineering works,1,Surface finishes,,,,5
+Z_DIV1_6,Z,Simple building works incidental to civil engineering works,1,Piped services,,,,6
+Z_DIV1_7,Z,Simple building works incidental to civil engineering works,1,Ducted services,,,,7
+Z_DIV1_8,Z,Simple building works incidental to civil engineering works,1,Cabled services,,,,8
+B_M2,B,Ground investigation,,,definition,M2,Professional services,10
+B_M3,B,Ground investigation,,,definition,M3,The hours measured shall be records of time spent,11
+E_M1,E,Earthworks,,,measurement,M1,Formwork sha It be measu red D1 Plane formwork shall be A1 Formwork left in shall be so,23
+E_M2,E,Earthworks,,,measurement,M2,"Formwork shall not be surfaces shall so state, except",24
+E_A3,E,Earthworks,,,measurement,A3,Item descriptions for,25
+E_M3,E,Earthworks,,,measurement,M3,Formwork to upper surfaces maximum and minimum radii,26
+E_M4,E,Earthworks,,,measurement,M4,"Formwork for the surfaces of measured perpendicularly to the intrusions, shall state the principal",27
+E_D3,E,Earthworks,,,measurement,D3,shall be measured as set out in D4 Nibs and external splays not location or other unique identifying,28
+E_M5,E,Earthworks,,,measurement,M5,Formwork for the surfaces of,29
+E_M6,E,Earthworks,,,measurement,M6,The area of formwork sectional area shall be classed as,30
+E_M7,E,Earthworks,,,measurement,M7,The mass of steel D6 The nominal size stated in C1 Items for re/nfbrcemenrshall A7 Item descriptions for bar,31
+E_M8,E,Earthworks,,,measurement,M8,The mass of reinforcement shall be classed as special joints. jointsshaU state the type of joint,32
+E_A9,E,Earthworks,,,measurement,A9,Item descriptions for steel,33
+E_M9,E,Earthworks,,,measurement,M9,The area of additional fabric fabric to BS4483 shall state the,34
+E_A10,E,Earthworks,,,measurement,A10,Item descriptions for fabric,35
+I_M1,I,Pipework — pipes,,,measurement,M1,The Commencing Surface D1 Pipes not in trenches shall C1 Items for pipes sha II be A1 The location or type of,12
+I_M2,I,Pipework — pipes,,,measurement,M2,Backfilling of trenches shall and pipes laid within volumes,13
+I_M3,I,Pipework — pipes,,,measurement,M3,Lengths of pipes shall be to the extent that such work is,14
+I_A4,I,Pipework — pipes,,,measurement,A4,The Commencing Surface,15
+I_M4,I,Pipework — pipes,,,measurement,M4,Additional items shall be,16
+I_A5,I,Pipework — pipes,,,measurement,A5,Where more than one pipe is,17
+I_M5,I,Pipework — pipes,,,measurement,M5,Lsngths of pipes entering,18
+I_A6,I,Pipework — pipes,,,measurement,A6,Trench depths exceeding,19
+I_A7,I,Pipework — pipes,,,measurement,A7,Item descriptions shall,20
+L_M2,L,Pipework — supports and protection,,,measurement,M2,Work in this class associated,10
+L_M3,L,Pipework — supports and protection,,,measurement,M3,Breaking up and reinstate,11
+L_M4,L,Pipework — supports and protection,,,measurement,M4,The volume of extras to Dl The nominal trench width if A1 Item descriptions shall,12
+L_M5,L,Pipework — supports and protection,,,measurement,M5,No volume of extras to distance where it exceeds 1 m.,13
+L_M6,L,Pipework — supports and protection,,,measurement,M6,The volume of extras to,14
+L_M7,L,Pipework — supports and protection,,,measurement,M7,Backfilling above the Final,15
+L_M8,L,Pipework — supports and protection,,,measurement,M8,"An isolated volume of rock,",16
+P_M6,P,Piles,,,measurement,M6,Each group of Items for D6 The lengths of interlocking,9
+P_A10,P,Piles,,,measurement,A10,The section reference or,10
+P_D7,P,Piles,,,measurement,D7,"Interlocking steel corner,",11
+P_M7,P,Piles,,,measurement,M7,The areas of interlocking steel,12
+P_M8,P,Piles,,,measurement,M8,Closure and taper piles,13
+Q_M1,Q,Piling ancillaries,,,definition,M1,"Work in this class, other than",8
+Q_M2,Q,Piling ancillaries,,,definition,M2,The lengths of permanent,9
+Q_A2,Q,Piling ancillaries,,,definition,A2,"Materials, thickness and",10
+Q_M3,Q,Piling ancillaries,,,definition,M3,The mass measured for,11
+Q_M4,Q,Piling ancillaries,,,definition,M4,The mass of steel reinforce BS4449.,12
+Q_M5,Q,Piling ancillaries,,,definition,M5,Driving extended piles shall,13
+Q_C5,Q,Piling ancillaries,,,definition,C5,Items for pile extensions shall,14
+Q_M6,Q,Piling ancillaries,,,definition,M6,Each group of items for pile,15
+Q_M7,Q,Piling ancillaries,,,definition,M7,The length of pile extensions,16
+Q_M5,Q,Piling ancillaries,,,definition,M5,Driving extended piles shall,17
+Q_C5,Q,Piling ancillaries,,,definition,C5,Items for pile extensions shall,18
+Q_M9,Q,Piling ancillaries,,,definition,M9,Each group of items for pile,19
+Q_M7,Q,Piling ancillaries,,,definition,M7,The length of pile extensions,20
+Q_M5,Q,Piling ancillaries,,,measurement,M5,Driving extended piles shall D5 The section modulus used for C5 Items for pile extensions shall A6 Materials of which pile,21
+Q_M10,Q,Piling ancillaries,,,measurement,M10,Each group of items for pile,22
+Q_A7,Q,Piling ancillaries,,,measurement,A7,Item descriptions for pile,23
+Q_A8,Q,Piling ancillaries,,,measurement,A8,Item descriptions for loading,24
+S_M9,S,Rail track,,,definition,M9,"The lengths of laying check, with rule A13. A14 Item descriptions for laying",7
+S_M7,S,Rail track,,,definition,M7,Conductor rail guard boards short lengths between turnouts rails shall state the type and mass,8
+S_C10,S,Rail track,,,definition,C10,Items for laying switches,9
+S_A17,S,Rail track,,,definition,A17,Item descriptions for,10
+S_A18,S,Rail track,,,definition,A18,Item descriptions for laying,11
+T_M1,T,Tunnels,,,definition,M1,Tunnels constructed by cut,7
+T_D1,T,Tunnels,,,definition,D1,"Transitions, breakaways and",8
+T_A2,T,Tunnels,,,definition,A2,Item descriptions for,9
+T_M2,T,Tunnels,,,definition,M2,The volume measu red for,10
+T_A4,T,Tunnels,,,definition,A4,Where material is for,11
+T_M3,T,Tunnels,,,definition,M3,An isolated volume of rock disposal on the Site the location,12
+T_M4,T,Tunnels,,,definition,M4,The area measured for,13
+T_M5,T,Tunnels,,,measurement,M5,The th ickness of in situ lining,14
+T_M6,T,Tunnels,,,measurement,M6,The volume of in situ cast internal diameter. inclination to the vertical of,15
+T_A8,T,Tunnels,,,measurement,A8,Item descriptions for in situ,16
+T_M7,T,Tunnels,,,measurement,M7,The measurement unit for lining shall state the specificatior,17
+T_A9,T,Tunnels,,,measurement,A9,Item descriptions for,18
+T_A10,T,Tunnels,,,measurement,A10,Item descriptions for,19
+T_A11,T,Tunnels,,,measurement,A11,Item descriptions for,20
+T_A12,T,Tunnels,,,measurement,A12,The internal diameter of the,21
+T_A13,T,Tunnels,,,measurement,A13,Where linings are not of,22
+Y_M7,Y,Sewer and water main renovation,,,measurement,M7,"Interruptions shall, be",10
+Z_M8,Z,Simple building works incidental to civil engineering works,,,coverage,M8,Lengths measured for cables,9
+Z_D9,Z,Simple building works incidental to civil engineering works,,,coverage,D9,Simple low voltage power,10
+Z_M9,Z,Simple building works incidental to civil engineering works,,,coverage,M9,"Lengths measured for terminations and connections, stated in item descriptions so that",11
+Z_A30,Z,Simple building works incidental to civil engineering works,,,coverage,A30,"The materials, size or",12
+Z_M10,Z,Simple building works incidental to civil engineering works,,,coverage,M10,"Lengths measured for C12 Items for cabled building capacity, and method of fixing shall",13
+Z_C13,Z,Simple building works incidental to civil engineering works,,,coverage,C13,Items for cabled building specified qualities.,14
+Z_C14,Z,Simple building works incidental to civil engineering works,,,coverage,C14,Items for conduits shall be shall be stated in item descriptions,15

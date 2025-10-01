@@ -1,0 +1,227 @@
+id,class_code,class_title,division_level,division_text,rule_type,rule_text,order_in_class
+G_DEFINITION_1,G,Concrete ancillaries,,,definition,Classification and in a Bill of Quantities prepared in accordance with CESMM3.,1
+G_ADDITIONAL_2,G,Concrete ancillaries,,,additional,Additional description rule A! of class H requires that the specification of the,2
+G_ADDITIONAL_3,G,Concrete ancillaries,,,additional,Additional description rule A2 of class I requires that the nominal bores of pipes,3
+G_ADDITIONAL_4,G,Concrete ancillaries,,,additional,Applicability of rules 3.11. Rules printed on a right-hand page above a double line apply to all work in,4
+G_ADDITIONAL_5,G,Concrete ancillaries,,,additional,Coding 4.1. For convenience of reference each item in the Work Classification has been,5
+G_ADDITIONAL_6,G,Concrete ancillaries,,,additional,Code H 1 3 6 identifies an item as,6
+H_ADDITIONAL_1,H,Precast concrete,,,additional,Contract.,1
+H_ADDITIONAL_2,H,Precast concrete,,,additional,Coding of unclassified items 4.5. Where a feature of an item is not listed in the Work Classification the digit,2
+H_ADDITIONAL_3,H,Precast concrete,,,additional,Additional description rule A1 of class H requires that additional description be,3
+H_ADDITIONAL_4,H,Precast concrete,,,additional,Measurement of completed work 5.1. Appropriate provisions of this section shall also apply to the measurement of,4
+H_ADDITIONAL_5,H,Precast concrete,,,additional,"Daywork Schedule 5.6. The Daywork Schedule, if any, shall comprise either",5
+H_ADDITIONAL_6,H,Precast concrete,,,additional,"Daywork basis, or",6
+H_ADDITIONAL_7,H,Precast concrete,,,additional,Division of the Bill of Quantities the Tender Total may be arranged into numbered parts to distinguish between those,7
+H_ADDITIONAL_8,H,Precast concrete,,,additional,"Descriptions 5.11. Descriptions shall identify the work covered by the respective items, but the",8
+H_ADDITIONAL_9,H,Precast concrete,,,additional,Classification may be omitted from an item description provided that a reference is,9
+H_ADDITIONAL_10,H,Precast concrete,,,additional,"Contract, and no allowance shall be made for bulking, shrinkage or waste.",10
+H_DIV1_11,H,Precast concrete,1,Units,,,11
+H_ADDITIONAL_12,H,Precast concrete,,,additional,"Allowance), if required, shall be given in the Grand Summary following the total of",12
+H_ADDITIONAL_13,H,Precast concrete,,,additional,Adjustment Item 5.26. An item described as the Adjustment Item shall be given in the Grand,13
+H_ADDITIONAL_14,H,Precast concrete,,,additional,"Allowance, if any, and the amount of the Adjustment Item.",14
+H_ADDITIONAL_15,H,Precast concrete,,,additional,Adjustment Item 6.3. A tenderer may insert a lump sum addition or deduction against the,15
+H_ADDITIONAL_16,H,Precast concrete,,,additional,Adjustment item given in the Grand Summary in adjustment of the total of the,16
+H_ADDITIONAL_17,H,Precast concrete,,,additional,Adjustment Item. .,17
+H_ADDITIONAL_18,H,Precast concrete,,,additional,Definitions 7:1. For the purposes of this section the following words and expressions shall,18
+H_ADDITIONAL_19,H,Precast concrete,,,additional,Charge.,19
+H_ADDITIONAL_20,H,Precast concrete,,,additional,Charges as he may decide to cover items of work relating to his intended method of,20
+H_ADDITIONAL_21,H,Precast concrete,,,additional,"Classification, distinguishing between Time-Related Charges and Fixed Charges.",21
+H_ADDITIONAL_22,H,Precast concrete,,,additional,Method-Related Charges may be inserted to cover items of work other than those,22
+H_ADDITIONAL_23,H,Precast concrete,,,additional,Description 7.4. Each item for a Method-Related Charge inserted in the Bill of Quantities shall,23
+H_ADDITIONAL_24,H,Precast concrete,,,additional,Contractor not bound to adopt 7.5. The insertion by the Contractor of an item for a Method-Related Charge in the,24
+H_ADDITIONAL_25,H,Precast concrete,,,additional,Charges not to be measured 7.6. Method-Related. Charges shall not be subject to admeasurement but shall be,25
+H_ADDITIONAL_26,H,Precast concrete,,,additional,"Contractor. In default of such agreement the Method-Related Charge, or the",26
+Y_ADDITIONAL_1,Y,Sewer and water main renovation,,,additional,"Class 2: Simple building works incidental to civil engineering works, 102",1
+A_ADDITIONAL_1,A,General items,,,additional,CLASS A,1
+A_ADDITIONAL_2,A,General items,,,additional,Method-Related Charges may be inserted by the tenderer in accordance with paragraph 7.2 for insurances additional to those classed as contractual,2
+A_ADDITIONAL_3,A,General items,,,additional,CLASS A,3
+A_ADDITIONAL_4,A,General items,,,additional,CLASS A,4
+B_ADDITIONAL_1,B,Ground investigation,,,additional,CLASSE,1
+B_ADDITIONAL_2,B,Ground investigation,,,additional,CLASSB,2
+B_ADDITIONAL_3,B,Ground investigation,,,additional,CLASSB,3
+B_ADDITIONAL_4,B,Ground investigation,,,additional,CLASSB,4
+B_ADDITIONAL_5,B,Ground investigation,,,additional,CLASS,5
+B_ADDITIONAL_6,B,Ground investigation,,,additional,CLASS B,6
+B_ADDITIONAL_7,B,Ground investigation,,,additional,CLASSB,7
+B_DEFINITION_8,B,Ground investigation,,,definition,M2 Professional services,8
+B_DEFINITION_9,B,Ground investigation,,,definition,M3 The hours measured shall be records of time spent,9
+C_DEFINITION_1,C,Geotechnical and other specialist processes,,,definition,CLASS C,1
+C_DEFINITION_2,C,Geotechnical and other specialist processes,,,definition,CLASS C,2
+C_DEFINITION_3,C,Geotechnical and other specialist processes,,,definition,CLASS C,3
+D_DEFINITION_1,D,Demolition and site clearance,,,definition,CUSS D,1
+E_DEFINITION_1,E,Earthworks,,,definition,CLASS E,1
+E_DEFINITION_2,E,Earthworks,,,definition,CLASSE 1,2
+E_DEFINITION_3,E,Earthworks,,,definition,CLASSE,3
+E_DEFINITION_4,E,Earthworks,,,definition,CLASSE,4
+E_DEFINITION_5,E,Earthworks,,,definition,CLASS f,5
+E_DEFINITION_6,E,Earthworks,,,definition,Accessories for in situ concrete,6
+E_DEFINITION_7,E,Earthworks,,,definition,CLASS G,7
+E_DEFINITION_8,E,Earthworks,,,definition,ADDITIONAL,8
+E_MEASUREMENT_9,E,Earthworks,,,measurement,M1 Formwork sha It be measu red D1 Plane formwork shall be A1 Formwork left in shall be so,9
+E_MEASUREMENT_10,E,Earthworks,,,measurement,"M2 Formwork shall not be surfaces shall so state, except",10
+E_MEASUREMENT_11,E,Earthworks,,,measurement,A3 Item descriptions for,11
+E_MEASUREMENT_12,E,Earthworks,,,measurement,M3 Formwork to upper surfaces maximum and minimum radii,12
+E_MEASUREMENT_13,E,Earthworks,,,measurement,"M4 Formwork for the surfaces of measured perpendicularly to the intrusions, shall state the principal",13
+E_MEASUREMENT_14,E,Earthworks,,,measurement,D3 shall be measured as set out in D4 Nibs and external splays not location or other unique identifying,14
+E_MEASUREMENT_15,E,Earthworks,,,measurement,M5 Formwork for the surfaces of,15
+E_MEASUREMENT_16,E,Earthworks,,,measurement,M6 The area of formwork sectional area shall be classed as,16
+E_MEASUREMENT_17,E,Earthworks,,,measurement,M7 The mass of steel D6 The nominal size stated in C1 Items for re/nfbrcemenrshall A7 Item descriptions for bar,17
+E_MEASUREMENT_18,E,Earthworks,,,measurement,M8 The mass of reinforcement shall be classed as special joints. jointsshaU state the type of joint,18
+E_MEASUREMENT_19,E,Earthworks,,,measurement,A9 Item descriptions for steel,19
+E_MEASUREMENT_20,E,Earthworks,,,measurement,M9 The area of additional fabric fabric to BS4483 shall state the,20
+E_MEASUREMENT_21,E,Earthworks,,,measurement,A10 Item descriptions for fabric,21
+E_MEASUREMENT_22,E,Earthworks,,,measurement,CLASS G,22
+E_MEASUREMENT_23,E,Earthworks,,,measurement,CLASS. G,23
+H_MEASUREMENT_1,H,Precast concrete,,,measurement,D,1
+H_MEASUREMENT_2,H,Precast concrete,,,measurement,CLASS H,2
+I_MEASUREMENT_1,I,Pipework — pipes,,,measurement,CLASS I,1
+I_MEASUREMENT_2,I,Pipework — pipes,,,measurement,ADDITIONAL,2
+I_MEASUREMENT_3,I,Pipework — pipes,,,measurement,M1 The Commencing Surface D1 Pipes not in trenches shall C1 Items for pipes sha II be A1 The location or type of,3
+I_MEASUREMENT_4,I,Pipework — pipes,,,measurement,M2 Backfilling of trenches shall and pipes laid within volumes,4
+I_MEASUREMENT_5,I,Pipework — pipes,,,measurement,M3 Lengths of pipes shall be to the extent that such work is,5
+I_MEASUREMENT_6,I,Pipework — pipes,,,measurement,A4 The Commencing Surface,6
+I_MEASUREMENT_7,I,Pipework — pipes,,,measurement,M4 Additional items shall be,7
+I_MEASUREMENT_8,I,Pipework — pipes,,,measurement,A5 Where more than one pipe is,8
+I_MEASUREMENT_9,I,Pipework — pipes,,,measurement,M5 Lsngths of pipes entering,9
+I_MEASUREMENT_10,I,Pipework — pipes,,,measurement,A6 Trench depths exceeding,10
+I_MEASUREMENT_11,I,Pipework — pipes,,,measurement,A7 Item descriptions shall,11
+J_MEASUREMENT_1,J,Pipework — fittings and valves,,,measurement,CLASS J,1
+K_MEASUREMENT_1,K,Pipework — manholes and ancillaries,,,measurement,Ducted building services (included in class Z),1
+K_MEASUREMENT_2,K,Pipework — manholes and ancillaries,,,measurement,CLASS K,2
+K_MEASUREMENT_3,K,Pipework — manholes and ancillaries,,,measurement,Manholes and other chambers may be measured in detail as set out in other classes of CESMM3.,3
+K_MEASUREMENT_4,K,Pipework — manholes and ancillaries,,,measurement,CLASS K,4
+K_MEASUREMENT_5,K,Pipework — manholes and ancillaries,,,measurement,CLASSK,5
+L_MEASUREMENT_1,L,Pipework — supports and protection,,,measurement,CLASSL,1
+L_MEASUREMENT_2,L,Pipework — supports and protection,,,measurement,ADDITIONAL,2
+L_MEASUREMENT_3,L,Pipework — supports and protection,,,measurement,Ml Items shall be given in this C1 Items for work in this class,3
+L_MEASUREMENT_4,L,Pipework — supports and protection,,,measurement,M2 Work in this class associated,4
+L_MEASUREMENT_5,L,Pipework — supports and protection,,,measurement,M3 Breaking up and reinstate,5
+L_MEASUREMENT_6,L,Pipework — supports and protection,,,measurement,M4 The volume of extras to Dl The nominal trench width if A1 Item descriptions shall,6
+L_MEASUREMENT_7,L,Pipework — supports and protection,,,measurement,M5 No volume of extras to distance where it exceeds 1 m.,7
+L_MEASUREMENT_8,L,Pipework — supports and protection,,,measurement,M6 The volume of extras to,8
+L_MEASUREMENT_9,L,Pipework — supports and protection,,,measurement,M7 Backfilling above the Final,9
+L_MEASUREMENT_10,L,Pipework — supports and protection,,,measurement,"M8 An isolated volume of rock,",10
+L_MEASUREMENT_11,L,Pipework — supports and protection,,,measurement,CLASS L,11
+L_MEASUREMENT_12,L,Pipework — supports and protection,,,measurement,CLASSL,12
+M_MEASUREMENT_1,M,Structural metalwork,,,measurement,"Metaiwork in pipework (included in classes I, J, K and L)",1
+M_MEASUREMENT_2,M,Structural metalwork,,,measurement,Miscellaneous metaiwork (included in class N),2
+M_MEASUREMENT_3,M,Structural metalwork,,,measurement,Metaiwork in piles (included in classes P and Q),3
+M_MEASUREMENT_4,M,Structural metalwork,,,measurement,Metaiwork in fences (included in class X),4
+M_MEASUREMENT_5,M,Structural metalwork,,,measurement,CLASS M,5
+N_MEASUREMENT_1,N,Miscellaneous metalwork,,,measurement,Metal inserts in concrete (included in classes G and H),1
+N_MEASUREMENT_2,N,Miscellaneous metalwork,,,measurement,CLASS N,2
+N_MEASUREMENT_3,N,Miscellaneous metalwork,,,measurement,"As an alternative to the additional description given as required by rule Al, item descriptions may identify assemblies by mark number in accordance with",3
+O_DIV1_1,O,Timber,1,Fittings,,,1
+O_MEASUREMENT_2,O,Timber,,,measurement,Carpentry and joinery in simple building works incidental to civil engineering works (included in class Z),2
+O_MEASUREMENT_3,O,Timber,,,measurement,CLASS O,3
+P_MEASUREMENT_1,P,Piles,,,measurement,CLASS P,1
+P_MEASUREMENT_1,P,Piles,,,measurement,CLASS P,1
+P_MEASUREMENT_2,P,Piles,,,measurement,ADDITIONAL,2
+P_MEASUREMENT_3,P,Piles,,,measurement,M6 Each group of Items for D6 The lengths of interlocking,3
+P_MEASUREMENT_4,P,Piles,,,measurement,A10 The section reference or,4
+P_MEASUREMENT_5,P,Piles,,,measurement,"D7 Interlocking steel corner,",5
+P_MEASUREMENT_6,P,Piles,,,measurement,M7 The areas of interlocking steel,6
+P_MEASUREMENT_7,P,Piles,,,measurement,M8 Closure and taper piles,7
+Q_MEASUREMENT_1,Q,Piling ancillaries,,,measurement,CLASS Q,1
+Q_DEFINITION_2,Q,Piling ancillaries,,,definition,"M1 Work in this class, other than",2
+Q_DEFINITION_3,Q,Piling ancillaries,,,definition,M2 The lengths of permanent,3
+Q_DEFINITION_4,Q,Piling ancillaries,,,definition,"A2 Materials, thickness and",4
+Q_DEFINITION_5,Q,Piling ancillaries,,,definition,M3 The mass measured for,5
+Q_DEFINITION_6,Q,Piling ancillaries,,,definition,M4 The mass of steel reinforce BS4449.,6
+Q_DEFINITION_7,Q,Piling ancillaries,,,definition,M5 Driving extended piles shall,7
+Q_DEFINITION_8,Q,Piling ancillaries,,,definition,C5 Items for pile extensions shall,8
+Q_DEFINITION_9,Q,Piling ancillaries,,,definition,M6 Each group of items for pile,9
+Q_DEFINITION_10,Q,Piling ancillaries,,,definition,M7 The length of pile extensions,10
+Q_DEFINITION_11,Q,Piling ancillaries,,,definition,Mff The length measured for,11
+Q_DEFINITION_12,Q,Piling ancillaries,,,definition,M5 Driving extended piles shall,12
+Q_DEFINITION_13,Q,Piling ancillaries,,,definition,C5 Items for pile extensions shall,13
+Q_DEFINITION_14,Q,Piling ancillaries,,,definition,M9 Each group of items for pile,14
+Q_DEFINITION_15,Q,Piling ancillaries,,,definition,M7 The length of pile extensions,15
+Q_DEFINITION_16,Q,Piling ancillaries,,,definition,CLASS Q,16
+Q_DIV1_17,Q,Piling ancillaries,1,Jetting,,,17
+Q_DEFINITION_18,Q,Piling ancillaries,,,definition,Cutting off surplus lengths m,18
+Q_DEFINITION_19,Q,Piling ancillaries,,,definition,CLASS Q,19
+Q_DEFINITION_20,Q,Piling ancillaries,,,definition,ADDITIONAL •,20
+Q_MEASUREMENT_21,Q,Piling ancillaries,,,measurement,M5 Driving extended piles shall D5 The section modulus used for C5 Items for pile extensions shall A6 Materials of which pile,21
+Q_MEASUREMENT_22,Q,Piling ancillaries,,,measurement,M10 Each group of items for pile,22
+Q_MEASUREMENT_23,Q,Piling ancillaries,,,measurement,"M7, The length of pile extensions",23
+Q_MEASUREMENT_24,Q,Piling ancillaries,,,measurement,A7 Item descriptions for pile,24
+Q_MEASUREMENT_25,Q,Piling ancillaries,,,measurement,A8 Item descriptions for loading,25
+R_MEASUREMENT_1,R,Roads and pavings,,,measurement,"Drainage (included in classes I, J, K and L)",1
+R_MEASUREMENT_2,R,Roads and pavings,,,measurement,Maintenance of roads and pavings,2
+R_MEASUREMENT_3,R,Roads and pavings,,,measurement,Cement-bound granular material m2,3
+R_DIV1_4,R,Roads and pavings,1,Sub-bases,,,4
+R_DIV1_5,R,Roads and pavings,1,Sub-bases,,,5
+R_MEASUREMENT_6,R,Roads and pavings,,,measurement,Deformed high yield steel bar,6
+R_MEASUREMENT_7,R,Roads and pavings,,,measurement,CLASS R,7
+R_MEASUREMENT_8,R,Roads and pavings,,,measurement,CLASS R,8
+R_MEASUREMENT_9,R,Roads and pavings,,,measurement,Curved to radius not exceeding 12 m,9
+R_MEASUREMENT_10,R,Roads and pavings,,,measurement,Drops,10
+R_MEASUREMENT_11,R,Roads and pavings,,,measurement,CLASS R,11
+S_MEASUREMENT_1,S,Rail track,,,measurement,Concrete track foundations (included in classes F and G),1
+S_MEASUREMENT_2,S,Rail track,,,measurement,CLASSS,2
+S_MEASUREMENT_3,S,Rail track,,,measurement,CLASSS,3
+S_MEASUREMENT_4,S,Rail track,,,measurement,CLASS S,4
+S_DEFINITION_5,S,Rail track,,,definition,"M t c o a r e c n 8 a n c d c t u k s r p h s e T i a h h l e l a i e l d l n l i e l b n b e o y c e n f t l g t m u u t h e r d h e n e a o o t s t f u r h u a t l e r c s a k e l y a e i d ( n n n t a d g g w l t p o o h l r s n a a i g il n t ) he t f r D a h e 4 b e p r l C i a o c S c n a i p t t n o r e g t a d c s r t t l e r o e - a r e s c . p l k e e n r e o s p t e i r n s i u p n p r g p e s l h i a e l d l b b y e t o d C o u 8 e t t e h a m e f I e t t S e d e i r t m t d e s o e o f l i r o i , n r v c w e l l r h a u y e y d i e o r n f e w g c o t s o r r h a m a k c l p k l c o a i b n r s e r e n i n o e t t d s t o A s s ra t u 1 i a p l 3 t p t e l r i t a I e h c t e d k e w f b m h o y d i r e t m c s h h c e i n r i C i s w o p h n n t o t i i t r c o a n h t c s o t i t f b o i o e r s r s t l h o a a y b l i l e n g",5
+S_DEFINITION_6,S,Rail track,,,definition,"M9 The lengths of laying check, with rule A13. A14 Item descriptions for laying",6
+S_DEFINITION_7,S,Rail track,,,definition,M7 Conductor rail guard boards short lengths between turnouts rails shall state the type and mass,7
+S_DEFINITION_8,S,Rail track,,,definition,C10 Items for laying switches,8
+S_DEFINITION_9,S,Rail track,,,definition,A17 Item descriptions for,9
+S_DEFINITION_10,S,Rail track,,,definition,A18 Item descriptions for laying,10
+T_DEFINITION_1,T,Tunnels,,,definition,Cut and cover tunnels,1
+T_DEFINITION_2,T,Tunnels,,,definition,CLASS T,2
+T_DEFINITION_3,T,Tunnels,,,definition,M1 Tunnels constructed by cut,3
+T_DEFINITION_4,T,Tunnels,,,definition,"D1 Transitions, breakaways and",4
+T_DEFINITION_5,T,Tunnels,,,definition,A2 Item descriptions for,5
+T_DEFINITION_6,T,Tunnels,,,definition,M2 The volume measu red for,6
+T_DEFINITION_7,T,Tunnels,,,definition,"Drawings or, where no payment diameter of the excavation cross- excavated material off the Site tunnels and shafts are straight, •",7
+T_DEFINITION_8,T,Tunnels,,,definition,A4 Where material is for,8
+T_DEFINITION_9,T,Tunnels,,,definition,M3 An isolated volume of rock disposal on the Site the location,9
+T_DEFINITION_10,T,Tunnels,,,definition,M4 The area measured for,10
+T_DEFINITION_11,T,Tunnels,,,definition,CLASS T,11
+T_DEFINITION_12,T,Tunnels,,,definition,CLASS,12
+T_MEASUREMENT_13,T,Tunnels,,,measurement,M5 The th ickness of in situ lining,13
+T_MEASUREMENT_14,T,Tunnels,,,measurement,M6 The volume of in situ cast internal diameter. inclination to the vertical of,14
+T_MEASUREMENT_15,T,Tunnels,,,measurement,A8 Item descriptions for in situ,15
+T_MEASUREMENT_16,T,Tunnels,,,measurement,M7 The measurement unit for lining shall state the specificatior,16
+T_MEASUREMENT_17,T,Tunnels,,,measurement,A9 Item descriptions for,17
+T_MEASUREMENT_18,T,Tunnels,,,measurement,A10 Item descriptions for,18
+T_MEASUREMENT_19,T,Tunnels,,,measurement,A11 Item descriptions for,19
+T_MEASUREMENT_20,T,Tunnels,,,measurement,A12 The internal diameter of the,20
+T_MEASUREMENT_21,T,Tunnels,,,measurement,A13 Where linings are not of,21
+T_MEASUREMENT_22,T,Tunnels,,,measurement,"Concrete work in lining to tunnels, shafts and other cavities which involves other than simple shapes may be classed as concrete (class F) and",22
+U_MEASUREMENT_1,U,"Brickwork, blockwork and masonry",,,measurement,CLASS U,1
+V_MEASUREMENT_1,V,Painting,,,measurement,CLASS V,1
+W_MEASUREMENT_1,W,Waterproofing,,,measurement,"Damp proof courses in brickwork, blockwork and masonry (included in class U)",1
+W_MEASUREMENT_2,W,Waterproofing,,,measurement,CLASS,2
+X_MEASUREMENT_1,X,Miscellaneous work,,,measurement,Drainage to structures above ground,1
+X_MEASUREMENT_2,X,Miscellaneous work,,,measurement,CLASS,2
+Y_DIV1_1,Y,Sewer and water main renovation,1,New manholes,,,1
+Y_MEASUREMENT_2,Y,Sewer and water main renovation,,,measurement,CLASS',2
+Y_MEASUREMENT_3,Y,Sewer and water main renovation,,,measurement,CLASSY,3
+Y_MEASUREMENT_4,Y,Sewer and water main renovation,,,measurement,CLASSY,4
+Y_MEASUREMENT_5,Y,Sewer and water main renovation,,,measurement,Manholes may be measured in detail as set out in other classes of CESMM3.,5
+Y_MEASUREMENT_6,Y,Sewer and water main renovation,,,measurement,CLASS Y,6
+Y_MEASUREMENT_7,Y,Sewer and water main renovation,,,measurement,CLASS \,7
+Y_MEASUREMENT_8,Y,Sewer and water main renovation,,,measurement,DESCRIPTION RULES,8
+Y_MEASUREMENT_9,Y,Sewer and water main renovation,,,measurement,"M7 Interruptions shall, be",9
+Z_DIV1_1,Z,Simple building works incidental to civil engineering works,1,Insulation,,,1
+Z_DIV1_2,Z,Simple building works incidental to civil engineering works,1,Surface finishes,,,2
+Z_MEASUREMENT_3,Z,Simple building works incidental to civil engineering works,,,measurement,Ducted building services,3
+Z_MEASUREMENT_4,Z,Simple building works incidental to civil engineering works,,,measurement,Cabled building services,4
+Z_MEASUREMENT_5,Z,Simple building works incidental to civil engineering works,,,measurement,CLASS 2,5
+Z_MEASUREMENT_6,Z,Simple building works incidental to civil engineering works,,,measurement,Civil engineering timber works (included in class O),6
+Z_MEASUREMENT_7,Z,Simple building works incidental to civil engineering works,,,measurement,Asphalt work (included in class W),7
+Z_MEASUREMENT_8,Z,Simple building works incidental to civil engineering works,,,measurement,Drainageto structures above ground (included in class X),8
+Z_MEASUREMENT_9,Z,Simple building works incidental to civil engineering works,,,measurement,CLASS Z,9
+Z_MEASUREMENT_10,Z,Simple building works incidental to civil engineering works,,,measurement,CLASSZ,10
+Z_MEASUREMENT_11,Z,Simple building works incidental to civil engineering works,,,measurement,CLASS Z,11
+Z_MEASUREMENT_12,Z,Simple building works incidental to civil engineering works,,,measurement,CLASSZ,12
+Z_MEASUREMENT_13,Z,Simple building works incidental to civil engineering works,,,measurement,CLASS 2,13
+Z_COVERAGE_14,Z,Simple building works incidental to civil engineering works,,,coverage,M8 Lengths measured for cables,14
+Z_COVERAGE_15,Z,Simple building works incidental to civil engineering works,,,coverage,D9 Simple low voltage power,15
+Z_COVERAGE_16,Z,Simple building works incidental to civil engineering works,,,coverage,"M9 Lengths measured for terminations and connections, stated in item descriptions so that",16
+Z_COVERAGE_17,Z,Simple building works incidental to civil engineering works,,,coverage,"A30 The materials, size or",17
+Z_COVERAGE_18,Z,Simple building works incidental to civil engineering works,,,coverage,"M10 Lengths measured for C12 Items for cabled building capacity, and method of fixing shall",18
+Z_COVERAGE_19,Z,Simple building works incidental to civil engineering works,,,coverage,C13 Items for cabled building specified qualities.,19
+Z_COVERAGE_20,Z,Simple building works incidental to civil engineering works,,,coverage,C14 Items for conduits shall be shall be stated in item descriptions,20

@@ -1,0 +1,111 @@
+id,class_code,class_title,division_level,division_text,rule_type,rule_code,rule_text,order_in_class
+H_DIV1_1,H,Precast concrete,1,Units,,,,1
+H_DIV1_1,H,Precast concrete,1,Units,,,,1
+A_DIV1_1,A,General items,1,Method-related charges,,,,1
+B_M2,B,Ground investigation,,,definition,M2,Professional services,1
+B_M3,B,Ground investigation,,,definition,M3,The hours measured shall be records of time spent,2
+E_DIV2_1,E,Earthworks,2,Artificial hard material exposed,,,,1
+E_DIV1_2,E,Earthworks,1,Excavation ancillaries,,,,2
+E_M1,E,Earthworks,,,measurement,M1,Formwork sha It be measu red D1 Plane formwork shall be A1 Formwork left in shall be so,3
+E_M2,E,Earthworks,,,measurement,M2,"Formwork shall not be surfaces shall so state, except",4
+E_A3,E,Earthworks,,,measurement,A3,Item descriptions for,5
+E_M3,E,Earthworks,,,measurement,M3,Formwork to upper surfaces maximum and minimum radii,6
+E_M4,E,Earthworks,,,measurement,M4,"Formwork for the surfaces of measured perpendicularly to the intrusions, shall state the principal",7
+E_D3,E,Earthworks,,,measurement,D3,shall be measured as set out in D4 Nibs and external splays not location or other unique identifying,8
+E_M5,E,Earthworks,,,measurement,M5,Formwork for the surfaces of,9
+E_M6,E,Earthworks,,,measurement,M6,The area of formwork sectional area shall be classed as,10
+E_M7,E,Earthworks,,,measurement,M7,The mass of steel D6 The nominal size stated in C1 Items for re/nfbrcemenrshall A7 Item descriptions for bar,11
+E_M8,E,Earthworks,,,measurement,M8,The mass of reinforcement shall be classed as special joints. jointsshaU state the type of joint,12
+E_A9,E,Earthworks,,,measurement,A9,Item descriptions for steel,13
+E_M9,E,Earthworks,,,measurement,M9,The area of additional fabric fabric to BS4483 shall state the,14
+E_A10,E,Earthworks,,,measurement,A10,Item descriptions for fabric,15
+I_M1,I,Pipework — pipes,,,measurement,M1,The Commencing Surface D1 Pipes not in trenches shall C1 Items for pipes sha II be A1 The location or type of,1
+I_M2,I,Pipework — pipes,,,measurement,M2,Backfilling of trenches shall and pipes laid within volumes,2
+I_M3,I,Pipework — pipes,,,measurement,M3,Lengths of pipes shall be to the extent that such work is,3
+I_A4,I,Pipework — pipes,,,measurement,A4,The Commencing Surface,4
+I_M4,I,Pipework — pipes,,,measurement,M4,Additional items shall be,5
+I_A5,I,Pipework — pipes,,,measurement,A5,Where more than one pipe is,6
+I_M5,I,Pipework — pipes,,,measurement,M5,Lsngths of pipes entering,7
+I_A6,I,Pipework — pipes,,,measurement,A6,Trench depths exceeding,8
+I_A7,I,Pipework — pipes,,,measurement,A7,Item descriptions shall,9
+K_DIV1_1,K,Pipework — manholes and ancillaries,1,Manholes,,,,1
+L_M2,L,Pipework — supports and protection,,,measurement,M2,Work in this class associated,1
+L_M3,L,Pipework — supports and protection,,,measurement,M3,Breaking up and reinstate,2
+L_M4,L,Pipework — supports and protection,,,measurement,M4,The volume of extras to Dl The nominal trench width if A1 Item descriptions shall,3
+L_M5,L,Pipework — supports and protection,,,measurement,M5,No volume of extras to distance where it exceeds 1 m.,4
+L_M6,L,Pipework — supports and protection,,,measurement,M6,The volume of extras to,5
+L_M7,L,Pipework — supports and protection,,,measurement,M7,Backfilling above the Final,6
+L_M8,L,Pipework — supports and protection,,,measurement,M8,"An isolated volume of rock,",7
+O_DIV1_1,O,Timber,1,Fittings,,,,1
+P_M6,P,Piles,,,measurement,M6,Each group of Items for D6 The lengths of interlocking,1
+P_A10,P,Piles,,,measurement,A10,The section reference or,2
+P_DIV1_3,P,Piles,1,Interlocking steel,,,,3
+P_D7,P,Piles,,,measurement,D7,"Interlocking steel corner,",4
+P_M7,P,Piles,,,measurement,M7,The areas of interlocking steel,5
+P_M8,P,Piles,,,measurement,M8,Closure and taper piles,6
+Q_M1,Q,Piling ancillaries,,,definition,M1,"Work in this class, other than",1
+Q_M2,Q,Piling ancillaries,,,definition,M2,The lengths of permanent,2
+Q_DIV1_3,Q,Piling ancillaries,1,Casings,,,,3
+Q_A2,Q,Piling ancillaries,,,definition,A2,"Materials, thickness and",4
+Q_DIV1_5,Q,Piling ancillaries,1,Casings,,,,5
+Q_M3,Q,Piling ancillaries,,,definition,M3,The mass measured for,6
+Q_M4,Q,Piling ancillaries,,,definition,M4,The mass of steel reinforce BS4449.,7
+Q_M5,Q,Piling ancillaries,,,definition,M5,Driving extended piles shall,8
+Q_C5,Q,Piling ancillaries,,,definition,C5,Items for pile extensions shall,9
+Q_M6,Q,Piling ancillaries,,,definition,M6,Each group of items for pile,10
+Q_DIV1_11,Q,Piling ancillaries,1,Pile extensions,,,,11
+Q_M7,Q,Piling ancillaries,,,definition,M7,The length of pile extensions,12
+Q_M5,Q,Piling ancillaries,,,definition,M5,Driving extended piles shall,13
+Q_C5,Q,Piling ancillaries,,,definition,C5,Items for pile extensions shall,14
+Q_M9,Q,Piling ancillaries,,,definition,M9,Each group of items for pile,15
+Q_M7,Q,Piling ancillaries,,,definition,M7,The length of pile extensions,16
+Q_DIV1_17,Q,Piling ancillaries,1,Jetting,,,,17
+Q_M5,Q,Piling ancillaries,,,measurement,M5,Driving extended piles shall D5 The section modulus used for C5 Items for pile extensions shall A6 Materials of which pile,18
+Q_M10,Q,Piling ancillaries,,,measurement,M10,Each group of items for pile,19
+Q_A7,Q,Piling ancillaries,,,measurement,A7,Item descriptions for pile,20
+Q_A8,Q,Piling ancillaries,,,measurement,A8,Item descriptions for loading,21
+R_DIV1_1,R,Roads and pavings,1,Surfacing,,,,1
+R_DIV1_2,R,Roads and pavings,1,Sub-bases,,,,2
+R_DIV1_3,R,Roads and pavings,1,Surfacing,,,,3
+R_DIV1_4,R,Roads and pavings,1,Sub-bases,,,,4
+R_DIV1_5,R,Roads and pavings,1,Surfacing,,,,5
+R_DIV1_6,R,Roads and pavings,1,Concrete pavements,,,,6
+S_M9,S,Rail track,,,definition,M9,"The lengths of laying check, with rule A13. A14 Item descriptions for laying",1
+S_DIV1_2,S,Rail track,1,Sleepers,,,,2
+S_M7,S,Rail track,,,definition,M7,Conductor rail guard boards short lengths between turnouts rails shall state the type and mass,3
+S_C10,S,Rail track,,,definition,C10,Items for laying switches,4
+S_A17,S,Rail track,,,definition,A17,Item descriptions for,5
+S_A18,S,Rail track,,,definition,A18,Item descriptions for laying,6
+T_M1,T,Tunnels,,,definition,M1,Tunnels constructed by cut,1
+T_D1,T,Tunnels,,,definition,D1,"Transitions, breakaways and",2
+T_A2,T,Tunnels,,,definition,A2,Item descriptions for,3
+T_DIV1_4,T,Tunnels,1,Excavation,,,,4
+T_M2,T,Tunnels,,,definition,M2,The volume measu red for,5
+T_DIV1_6,T,Tunnels,1,Excavation,,,,6
+T_A4,T,Tunnels,,,definition,A4,Where material is for,7
+T_M3,T,Tunnels,,,definition,M3,An isolated volume of rock disposal on the Site the location,8
+T_M4,T,Tunnels,,,definition,M4,The area measured for,9
+T_M5,T,Tunnels,,,measurement,M5,The th ickness of in situ lining,10
+T_M6,T,Tunnels,,,measurement,M6,The volume of in situ cast internal diameter. inclination to the vertical of,11
+T_A8,T,Tunnels,,,measurement,A8,Item descriptions for in situ,12
+T_M7,T,Tunnels,,,measurement,M7,The measurement unit for lining shall state the specificatior,13
+T_DIV1_14,T,Tunnels,1,Lining,,,,14
+T_DIV1_15,T,Tunnels,1,Lining,,,,15
+T_A9,T,Tunnels,,,measurement,A9,Item descriptions for,16
+T_A10,T,Tunnels,,,measurement,A10,Item descriptions for,17
+T_A11,T,Tunnels,,,measurement,A11,Item descriptions for,18
+T_A12,T,Tunnels,,,measurement,A12,The internal diameter of the,19
+T_DIV1_20,T,Tunnels,1,Lining,,,,20
+T_A13,T,Tunnels,,,measurement,A13,Where linings are not of,21
+X_DIV1_1,X,Miscellaneous work,1,Drainage to structures,,,,1
+Y_DIV1_1,Y,Sewer and water main renovation,1,New manholes,,,,1
+Y_M7,Y,Sewer and water main renovation,,,measurement,M7,"Interruptions shall, be",2
+Z_DIV1_1,Z,Simple building works incidental to civil engineering works,1,Insulation,,,,1
+Z_DIV1_2,Z,Simple building works incidental to civil engineering works,1,Surface finishes,,,,2
+Z_M8,Z,Simple building works incidental to civil engineering works,,,coverage,M8,Lengths measured for cables,3
+Z_D9,Z,Simple building works incidental to civil engineering works,,,coverage,D9,Simple low voltage power,4
+Z_M9,Z,Simple building works incidental to civil engineering works,,,coverage,M9,"Lengths measured for terminations and connections, stated in item descriptions so that",5
+Z_A30,Z,Simple building works incidental to civil engineering works,,,coverage,A30,"The materials, size or",6
+Z_M10,Z,Simple building works incidental to civil engineering works,,,coverage,M10,"Lengths measured for C12 Items for cabled building capacity, and method of fixing shall",7
+Z_C13,Z,Simple building works incidental to civil engineering works,,,coverage,C13,Items for cabled building specified qualities.,8
+Z_C14,Z,Simple building works incidental to civil engineering works,,,coverage,C14,Items for conduits shall be shall be stated in item descriptions,9
