@@ -14,14 +14,12 @@ SMM_STRUCTURE = {
     ],
     "C": [
         "Demolitions and Alterations",
-        "General to Section C",
         "Demolitions",
         "Alterations",
         "Sundries",
     ],
     "D": [
         "Excavations and Earthwork",
-        "Generally to Section D",
         "Site preparation",
         "Excavation",
         "Disposal of water",
@@ -30,14 +28,12 @@ SMM_STRUCTURE = {
     ],
     "E": [
         "Piling",
-        "Generally to Section E",
         "Wood or concrete piles",
         "Contractor-designed concrete piles",
         "Steel sheet piling",
     ],
     "F": [
         "Concrete Work",
-        "Generally to Section F",
         "Plain concrete and reinforced concrete",
         "Reinforcement",
         "Formwork",
@@ -49,7 +45,6 @@ SMM_STRUCTURE = {
     ],
     "G": [
         "Walling",
-        "Generally to Section G",
         "Walling in connection with boilers",
         "Facework",
         "Brick facework",
@@ -65,7 +60,6 @@ SMM_STRUCTURE = {
     "J": ["Asphalt Work", "Generally to Section J", "Mastic asphalt"],
     "K": [
         "Roofing",
-        "Generally to Section K",
         "Slate of tile roofing",
         "Corrugated or troughed sheet roofing",
         "Thatch roofing",
@@ -76,7 +70,6 @@ SMM_STRUCTURE = {
     ],
     "L": [
         "Carpentry",
-        "Generally to Section L",
         "Structural timbers",
         "Boarding",
         "Fillets grounds batterns and bracketing",
@@ -84,7 +77,6 @@ SMM_STRUCTURE = {
     ],
     "M": [
         "Joinery",
-        "Generally to Section M",
         "Flooring",
         "Boarded or panelled linings, casing and partitions",
         "Doors, windows, skylights and lanterns",
@@ -100,7 +92,6 @@ SMM_STRUCTURE = {
     ],
     "N": [
         "Structural Steelwork",
-        "Generally to Section N",
         "Grillages and girders",
         "Stanchions, columns and portal frames",
         "Roof members, braces, struts and rails",
@@ -108,7 +99,6 @@ SMM_STRUCTURE = {
     ],
     "P": [
         "Metal Work",
-        "Generally to Section P",
         "Work in plates, bars, section and tubes",
         "Work in sheet metal",
         "Work in wire mesh or expanded metal",
@@ -118,7 +108,6 @@ SMM_STRUCTURE = {
     ],
     "Q": [
         "Plumbing and Engineering Installations",
-        "Generally to Section Q",
         "Gutterwork",
         "Pipework",
         "Ductwork",
@@ -128,14 +117,12 @@ SMM_STRUCTURE = {
     ],
     "R": [
         "Mechanical Engineering Installation",
-        "Generally to Section R",
         "Piped Systems",
         "Conveying installations",
         "Ductwork",
     ],
     "S": [
         "Electrical Installation",
-        "Generally to Section S",
         "Equipment and control gear",
         "Conduits, trunking and tray",
         "Cables and conductors",
@@ -146,7 +133,6 @@ SMM_STRUCTURE = {
     ],
     "T": [
         "Floor, Wall and Ceiling Finishes",
-        "Generally to Section T",
         "In-situ finishings",
         "Tile, slab or block finishings",
         "Plain sheet finishings",
@@ -157,7 +143,6 @@ SMM_STRUCTURE = {
     ],
     "U": [
         "Glazing",
-        "Generally to Section U",
         "Glass in openings",
         "Leaded lights and copper lights in openings",
         "Patent glazing",
@@ -165,17 +150,15 @@ SMM_STRUCTURE = {
     ],
     "V": [
         "Painting and Decorating",
-        "Generally to Section V",
         "Painting and similar work",
         "Polishing",
         "Sign writing",
     ],
-    "W": ["Drainage", "Generally to Section W", "Work in all trades"],
-    "X": ["Landscaping", "Generally to Section X"],
+    "W": ["Drainage", "Work in all trades"],
+    "X": ["Landscaping"],
     "Y": ["Roadworks", "Generally to Section Y"],
     "Z": [
         "Fencing",
-        "Generally to Section Z",
         "Opening-type fencing",
         "Close-type fencing",
         "Gates",

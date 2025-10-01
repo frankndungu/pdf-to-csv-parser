@@ -1,0 +1,796 @@
+id,section_code,section_ref,subsection_title,clause_ref,subclause_ref,clause_title,clause_text,clause_type,order_in_section
+A_HEADER,A,General Rules,,,,,General Rules,section_header,1
+A1,A,General Rules,,A1,,Bills of Quantities,Bills of Quantities shall fully describe and accurately represent the works to be executed. Work which,clause,2
+A2,A,General Rules,,A2,,Measurements,(a) Work shall be measured net as fixed in position and each measurement shall be taken to,clause,3
+A3,A,General Rules,,A3,,Description,(a) The order of stating dimensions in descriptions shall be consistent and generally in the,clause,4
+A4,A,General Rules,,A4,,Sizes of pipes or the,"Where this document requires the sizes of pipes and tubes (measured internally) and bars, cables,",clause,5
+A5,A,General Rules,,A5,,Quantities,"(a) Where the unit of billing is the metre, kilogram or litre quantities shall be billed to the",clause,6
+A6,A,General Rules,,A6,,Provisional or prime,Where this document requires provisional or prime cost sums to be given in accordance with this,clause,7
+A7,A,General Rules,,A7,,Work under water,"Work executed in or under water shall be so described stating whether canal, river or sea water and",clause,8
+A8,A,General Rules,,A8,,Work in compressed,Work executed in compressed air shall be so described stating the pressure and the methods,clause,9
+A9,A,General Rules,,A9,,Dayworks,(a) The term ’day work’ shall mean work for which the contractor is to be paid on the basis of,clause,10
+A10,A,General Rules,,A10,,Departures from the,No departure shall be made from this Standard Method of Measurement except to meet the,clause,11
+B_HEADER,B,Preliminaries,,,,,Preliminaries,section_header,1
+B_SUB_2,B,Preliminaries,Preliminary particulars,,,,Preliminary particulars,subsection,2
+B_SUB_3,B,Preliminaries,Contracts particulars,,,,Contracts particulars,subsection,3
+B_SUB_4,B,Preliminaries,General matters,,,,General matters,subsection,4
+B_SUB_5,B,Preliminaries,Temporary works,,,,Temporary works,subsection,5
+B_SUB_6,B,Preliminaries,Works by public bodies,,,,Works by public bodies,subsection,6
+B_SUB_7,B,Preliminaries,Works by nominated sub-contractors,,,,Works by nominated sub-contractors,subsection,7
+B_SUB_8,B,Preliminaries,Goods and materials from nominated suppliers,,,,Goods and materials from nominated suppliers,subsection,8
+B_SUB_9,B,Preliminaries,Protecting and cleaning the works,,,,Protecting and cleaning the works,subsection,9
+B_SUB_10,B,Preliminaries,Contingencies,,,,Contingencies,subsection,10
+B1,B,Preliminaries,,B1,,Name of Parties,"The names and addresses of the employer, the Architect, the Engineers, and the Quantity Surveyors",clause,11
+B2,B,Preliminaries,,B2,,Description of site,(a) The location of the site shall be described stating the mode of access. Attention shall be,clause,12
+B3,B,Preliminaries,,B3,,Description of the,(a) A general description of the works shall be given,clause,13
+B4,B,Preliminaries,,B4,,Contract particulars,(a) Particulars of the form and type of contract shall be given,clause,14
+B5,B,Preliminaries,,B5,,Items for convenience,"For convenience in pricing, items for the following shall given where applicable unless they are",clause,15
+B4,B,Preliminaries,,B4,,in pricing covered by the schedules given in accordance with Clause,hereof.,clause,16
+B6,B,Preliminaries,,B6,,Obligations imposed,Any obligation or restriction that may be imposed on the contractor by the employer in respect of,clause,17
+B7,B,Preliminaries,,B7,,Water for the works,Water for the works and temporary arrangements for storing and distributing shall be given as an,clause,18
+B8,B,Preliminaries,,B8,,Lighting and power for,Lighting and power for the works and temporary arrangements for distribution and for lighting of,clause,19
+B9,B,Preliminaries,,B9,,Contractor’s liability,(a) The contractor’s liability for risk of injury to persons and property and of damage to,clause,20
+B4,B,Preliminaries,,B4,,accordance with Clause,hereof.,clause,21
+B4,B,Preliminaries,,B4,,by the schedules given in accordance with Clause,hereof.,clause,22
+B4,B,Preliminaries,,B4,,with Clause,hereof.,clause,23
+B10,B,Preliminaries,,B10,,Employers Liability,Where the cost of insuring any liability of the employer is required to be included in the contract sum,clause,24
+B11,B,Preliminaries,,B11,,Temporary works,Clearing away temporary works and making good after shall be deemed to be included,clause,25
+B12,B,Preliminaries,,B12,,Temporary roads,"Temporary roads, tracks, hard-standings, crossings and the like shall be given as an item stating",clause,26
+B13,B,Preliminaries,,B13,,Temporary buildings,"(a) Temporary sheds, offices, messrooms, sanitary accommodation, and other temporary",clause,27
+B14,B,Preliminaries,,B14,,Temporary,Temporary telephone facilities on the site shall be given as an item.,clause,28
+B15,B,Preliminaries,,B15,,Temporary screens,Temporary screens and the like shall be given as an item stating the area and any requirements,clause,29
+B16,B,Preliminaries,,B16,,Temporary hoardings,"(a) Temporary fencing, hoardings, fans, planked footways, guard-rails gantries and the like as",clause,30
+B17,B,Preliminaries,,B17,,General scaffolding,General scaffolding for the works shall be given as an item,clause,31
+B18,B,Preliminaries,,B18,,Dayworks,"(a) The cost of labour in dayworks shall be given as sum; alternatively, a schedule of the",clause,32
+B19,B,Preliminaries,,B19,,Works by Public,Works which may only be carried out by a local authority or a public undertaking (e.g.,clause,33
+B20,B,Preliminaries,,B20,,Works by nominated,(a) Works which are required to be carried out by a nominated sub-contractor shall be,clause,34
+B21,B,Preliminaries,,B21,,Goods from,(a) Goods and materials which are required to be obtained from a nominated supplier,clause,35
+B22,B,Preliminaries,,B22,,Protection of the,Protection of the works shall be given as an item covering all sections of the works,clause,36
+B23,B,Preliminaries,,B23,,Removing rubbish and,Removing rubbish and debris and cleaning the works internally and externally shall be given as an,clause,37
+B24,B,Preliminaries,,B24,,Contingencies,Provision for contingencies shall be given as a provision sum as Clause A7 hereof.,clause,38
+C_HEADER,C,Demolitions and Alterations,,,,,Demolitions and Alterations,section_header,1
+C_SUB_2,C,Demolitions and Alterations,Demolitions,,,,Demolitions,subsection,2
+C_SUB_3,C,Demolitions and Alterations,Alterations,,,,Alterations,subsection,3
+C_SUB_4,C,Demolitions and Alterations,Sundries,,,,Sundries,subsection,4
+C1,C,Demolitions and Alterations,,C1,,(a) The location of demolitions and alterations,shall be given in the description of the items.,clause,5
+C10,C,Demolitions and Alterations,,C10,,accordance with Clause,hereof.,clause,6
+C2,C,Demolitions and Alterations,,C2,,Demolitions,"(a) Demolishing individual structures (or parts thereof) shall be given as items, except the",clause,7
+C3,C,Demolitions and Alterations,,C3,,Alterations,Alteration work which would be most conveniently priced on the site shall generally be grouped,clause,8
+C4,C,Demolitions and Alterations,,C4,,Cutting,Cutting openings in old structures shall be given as items stating the openings nominal finished size of,clause,9
+C5,C,Demolitions and Alterations,,C5,,Blockings up,Blocking up openings in old structures shall be given as items openings stating the size of the,clause,10
+C6,C,Demolitions and Alterations,,C6,,Pulling down other,"Pulling down walls, partitions, floors, roofs, staircases and parts of old structures shall be given as",clause,11
+C7,C,Demolitions and Alterations,,C7,,Taking down fittings,Taking down fittings and fixtures (e.g. doors; windows; sanitary appliances; counters; cupboards),clause,12
+C8,C,Demolitions and Alterations,,C8,,Refixing fittings an d,"Repairing, adapting and refixing old fittings and fixtures shall be given as items stating the size.",clause,13
+C9,C,Demolitions and Alterations,,C9,,Temporary screens,Temporary screens and temporary roofs shall each be given separately in square metres or,clause,14
+C10,C,Demolitions and Alterations,,C10,,Shoring,Timber shoring (other than that incidental to demolitions and alterations) shall be given in linear,clause,15
+D_HEADER,D,Excavations and Earthwork,,,,,Excavations and Earthwork,section_header,1
+D_SUB_2,D,Excavations and Earthwork,Site preparation,,,,Site preparation,subsection,2
+D_SUB_3,D,Excavations and Earthwork,Excavation,,,,Excavation,subsection,3
+D_SUB_4,D,Excavations and Earthwork,Disposal of water,,,,Disposal of water,subsection,4
+D_SUB_5,D,Excavations and Earthwork,Planking and strutting,,,,Planking and strutting,subsection,5
+D_SUB_6,D,Excavations and Earthwork,Hardcore filling,,,,Hardcore filling,subsection,6
+D1,D,Excavations and Earthwork,,D1,,(a) Any information available concerning the nature of the ground and strata,shall be given.,clause,7
+D2,D,Excavations and Earthwork,,D2,,Site preparation,(a) Anti-termite treatment to sub-soil or filling shall be given in square generally metres,clause,8
+D3,D,Excavations and Earthwork,,D3,,Preserving vegetable,Excavating vegetable soil which is to be preserved shall be given in square metres,clause,9
+D4,D,Excavations and Earthwork,,D4,,Removing trees and,(a) Cutting down trees and grubbing up their roots shall be enumerated. Tree exceeding 600,clause,10
+D5,D,Excavations and Earthwork,,D5,,Excavation generally,(a) The quantities given for excavating and subsequent disposal shall be deemed to be the,clause,11
+D15,D,Excavations and Earthwork,,D15,,accordance with Clause,hereof (except as otherwise provided in Clause D11),clause,12
+D6,D,Excavations and Earthwork,,D6,,Surface excavation,Excavating surfaces over 300 millimetres deep to reduce levels shall be given in cubic metres. Such,clause,13
+D7,D,Excavations and Earthwork,,D7,,Cuttings,Excavating cuttings shall be given in cubic metres.,clause,14
+D8,D,Excavations and Earthwork,,D8,,Basements,Excavating basements and the like shall be given in cubic metres stating the starting level and the,clause,15
+D5,D,Excavations and Earthwork,,D5,,depth as Clause,(f) hereof. Existing voids shall be deducted.,clause,16
+D9,D,Excavations and Earthwork,,D9,,Foundation trenches,Excavating trenches to receive foundations shall be given in cubic metres stating the starting level,clause,17
+D5,D,Excavations and Earthwork,,D5,,and the depth as Clause,(f) hereof. Preliminary trenches for basement retaining walls which are,clause,18
+D10,D,Excavations and Earthwork,,D10,,Pits,"Excavating pits to receive bases of stanchions, isolated piers and the like and grouped together shall",clause,19
+D5,D,Excavations and Earthwork,,D5,,be given in cubic metres stating the starting level and the depth as Clause,(f) hereof. No,clause,20
+D11,D,Excavations and Earthwork,,D11,,Pipe trenches and the,"Excavating trenches to receive service pipes, cables, kerbs and the like shall be given in linear metres",clause,21
+D12,D,Excavations and Earthwork,,D12,,Breaking up concrete,"Breaking up concrete, reinforced concrete work and the like met with in excavation shall each be",clause,22
+D13,D,Excavations and Earthwork,,D13,,Breaking up paving,"Breaking up surface concrete, reinforced surface concrete, paving tar macadam and the like on the",clause,23
+D14,D,Excavations and Earthwork,,D14,,Existing conservancy,"Clearing out and removing contents of conservancy tanks, septic tanks and the like shall be",clause,24
+D15,D,Excavations and Earthwork,,D15,,Disposal of excavated,(a) Multiple-handling of excavated materials and transporting about the site as necessary,clause,25
+D16,D,Excavations and Earthwork,,D16,,Surface treatments,(a) Treating the surface of the ground or the surface of filling or the bottom of excavation,clause,26
+D17,D,Excavations and Earthwork,,D17,,Soiling seeding,"Soiling, seeding, planting, fertilizing and turfing to surfaces shall each be given separately in",clause,27
+D18,D,Excavations and Earthwork,,D18,,Disposal of water,(a) Keeping excavations free from water (i.e. all water except spring or running water) shall,clause,28
+D19,D,Excavations and Earthwork,,D19,,Planking and strutting,Planking and strutting shall be deemed to mean providing everything requisite to uphold the sides of,clause,29
+D20,D,Excavations and Earthwork,,D20,,Hardcore filling,(a) Hardcore filling shall be measured as equal to the void to be filled. Any thickness stated,clause,30
+D16,D,Excavations and Earthwork,,D16,,(d) Treating the surface of the hardcore shall be given in accordance with Clause,(a) and,clause,31
+E_HEADER,E,Piling,,,,,Piling,section_header,1
+E_SUB_2,E,Piling,Wood or concrete piles,,,,Wood or concrete piles,subsection,2
+E_SUB_3,E,Piling,Contractor-designed concrete piles,,,,Contractor-designed concrete piles,subsection,3
+E_SUB_4,E,Piling,Steel sheet piling,,,,Steel sheet piling,subsection,4
+E1,E,Piling,,E1,,(a) Any information available concerning the nature of the ground and strata,shall be given,clause,5
+E2,E,Piling,,E2,,Wood or concrete,Designs for piles shall be deemed to be provided by the employer Piles required to be designed by,clause,6
+E7,E,Piling,,E7,,piles generally the contractor shall be given in accordance with Clause,hereof.,clause,7
+E3,E,Piling,,E3,,Wood piles,(a) Supplying wood piles shall be given in linear metres stating the nominal size. Those over,clause,8
+E4,E,Piling,,E4,,Cast concrete,(a) Supplying cast concrete piles shall be given in linear metres piles stating the nominal size,clause,9
+F_HEADER,F,Concrete Work,,,,,Concrete Work,section_header,1
+F_SUB_2,F,Concrete Work,Plain concrete and reinforced concrete,,,,Plain concrete and reinforced concrete,subsection,2
+F_SUB_3,F,Concrete Work,Reinforcement,,,,Reinforcement,subsection,3
+F_SUB_4,F,Concrete Work,Formwork,,,,Formwork,subsection,4
+F_SUB_5,F,Concrete Work,Precast concrete units,,,,Precast concrete units,subsection,5
+F_SUB_6,F,Concrete Work,Hollow block suspended Construction,,,,Hollow block suspended Construction,subsection,6
+F_SUB_7,F,Concrete Work,Prestressed concrete,,,,Prestressed concrete,subsection,7
+F_SUB_8,F,Concrete Work,Precast prestressed units,,,,Precast prestressed units,subsection,8
+F_SUB_9,F,Concrete Work,Sundries,,,,Sundries,subsection,9
+F_HEADER,F,Concrete Work,,,,,Concrete Work,section_header,10
+F_SUB_11,F,Concrete Work,Plain concrete and reinforced concrete,,,,Plain concrete and reinforced concrete,subsection,11
+F_SUB_12,F,Concrete Work,Reinforcement,,,,Reinforcement,subsection,12
+F_SUB_13,F,Concrete Work,Formwork,,,,Formwork,subsection,13
+F_SUB_14,F,Concrete Work,Precast concrete units,,,,Precast concrete units,subsection,14
+F_SUB_15,F,Concrete Work,Hollow block suspended Construction,,,,Hollow block suspended Construction,subsection,15
+F_SUB_16,F,Concrete Work,Prestressed concrete,,,,Prestressed concrete,subsection,16
+F_SUB_17,F,Concrete Work,Precast prestressed units,,,,Precast prestressed units,subsection,17
+F_SUB_18,F,Concrete Work,Sundries,,,,Sundries,subsection,18
+F_HEADER,F,Concrete Work,,,,,Concrete Work,section_header,19
+F_SUB_20,F,Concrete Work,Plain concrete and reinforced concrete,,,,Plain concrete and reinforced concrete,subsection,20
+F_SUB_21,F,Concrete Work,Reinforcement,,,,Reinforcement,subsection,21
+F_SUB_22,F,Concrete Work,Formwork,,,,Formwork,subsection,22
+F_SUB_23,F,Concrete Work,Precast concrete units,,,,Precast concrete units,subsection,23
+F_SUB_24,F,Concrete Work,Hollow block suspended Construction,,,,Hollow block suspended Construction,subsection,24
+F_SUB_25,F,Concrete Work,Prestressed concrete,,,,Prestressed concrete,subsection,25
+F_SUB_26,F,Concrete Work,Precast prestressed units,,,,Precast prestressed units,subsection,26
+F_SUB_27,F,Concrete Work,Sundries,,,,Sundries,subsection,27
+F1,F,Concrete Work,,F1,,(a) Particulars of the following,shall be given:,clause,28
+F2,F,Concrete Work,,F2,,(a) Plain in-situ concrete,shall be given under an appropriate heading.,clause,29
+F4,F,Concrete Work,,F4,,Machines bases Beds,Machine bases shall be given in cubic metres,clause,30
+F6,F,Concrete Work,,F6,,"Roads, foot-paths &","Roads, footpaths and pavings shall each be so described and given in accordance with the rules for",clause,31
+F5,F,Concrete Work,,F5,,pavings beds in Clause,hereof.,clause,32
+F7,F,Concrete Work,,F7,,"Floors, roofs and the","(a) Suspended floors, roofs and the like (measured over all bearings and grouped together)",clause,33
+F8,F,Concrete Work,,F8,,Walls,(a) Measurements of walls shall be taken between attached piers or pilasters. The thickness,clause,34
+F9,F,Concrete Work,,F9,,Casings to steelwork,"Casings to steel beams, lintels, stanchions and the like shall each be given separately in cubic metres.",clause,35
+F10,F,Concrete Work,,F10,,Beams and Columns,"Beams, lintels, columns and the like shall each be given separately in cubic metres. Floor beams and",clause,36
+F11,F,Concrete Work,,F11,,Steps and,"(a) Steps, staircases and strings (grouped together) shall be given staircases in cubic",clause,37
+F12,F,Concrete Work,,F12,,Kerbs,Kerbs may be given in cubic metres or in linear metres stating the size,clause,38
+F13,F,Concrete Work,,F13,,Finishes on to,Finishes (measured on the exposed face) which are cast on to cast the concrete by lining formwork,clause,39
+F14,F,Concrete Work,,F14,,Labours on concrete,(a) Treating the surface of unset concrete over 300 millimetres thick (e.g. grading to cross-,clause,40
+F15,F,Concrete Work,,F15,,Expansion joints in,Expansion joints in concrete where over 300 millimetres wide shall be given in square metres.,clause,41
+F16,F,Concrete Work,,F16,,Bar rein-forcement,(a) Particulars of the following shall be given:-,clause,42
+F17,F,Concrete Work,,F17,,Fabric reinforcement,(a) Fabric reinforcement shall be measured as to area covered but no allowance shall be,clause,43
+F18,F,Concrete Work,,F18,,Labours on fabric rein,(a) Raking cutting and curved cutting on fabric reinforcement shall each be given separately,clause,44
+F19,F,Concrete Work,,F19,,Formwork Generally,(a) Formwork shall be measured as the actual surfaces of the finished structure which require,clause,45
+F20,F,Concrete Work,,F20,,Formwork to surfaces,(a) Formwork to surfaces (other than those mentioned in Clauses F21 to F23 hereof) shall be,clause,46
+F21,F,Concrete Work,,F21,,Formwork to edges,(a) Formwork to edges shall be given in linear metres stating the width in stages of 75,clause,47
+F22,F,Concrete Work,,F22,,Formwork to bands,"Formwork to projecting or sunk bands, cornices and the like (grouped together) shall be given in",clause,48
+F23,F,Concrete Work,,F23,,Formwork to grooves,"(a) Formwork to throats, grooves, chases, rebates, chamfers over 50 millimetres wide,",clause,49
+F24,F,Concrete Work,,F24,,Labours on formwork,(a) Raking cutting and curved cutting shall each be given separately in linear metres.,clause,50
+F25,F,Concrete Work,,F25,,Precast units generally,(a) Precast units shall be given under an appropriate heading,clause,51
+F26,F,Concrete Work,,F26,,Structural units,Structural units (e.g. stanchions; beams; purlins; trusses) shall each be enumerated separately,clause,52
+F27,F,Concrete Work,,F27,,Steps and staircases,"Steps, landings, solid balustrade panels and the like shall each be enumerated separately stating the",clause,53
+F28,F,Concrete Work,,F28,,Kerbs and edgings,"Kerbs, edgings and the like shall each be given separately in linear metres stating the size. Curved",clause,54
+F29,F,Concrete Work,,F29,,"Shelves seats, duct","Shelves, divisions, seats, duct covers, sills, lintels, copings and the like shall each be fully described",clause,55
+F30,F,Concrete Work,,F30,,Templates,"Templates (or padstones), bases to posts and the like shall each be and bases",clause,56
+F31,F,Concrete Work,,F31,,Pier-caps and,"Pier-caps, chimney-caps and the like shall each be enumerated separately stating the size and the",clause,57
+F32,F,Concrete Work,,F32,,Hollow block,Hollow block suspended construction and formwork in contact therewith only shall,clause,58
+F33,F,Concrete Work,,F33,,"Floors, roofs and the","(a) Suspended floors, roofs and the like (measured over the ribs and bearings and grouped",clause,59
+F7,F,Concrete Work,,F7,,like together) shall be given in square metres in accordance with Clause,hereof. Filling ends,clause,60
+F34,F,Concrete Work,,F34,,Labours on hollow,Forming hips and valleys shall each be given separately in linear metres stating the thickness.,clause,61
+F35,F,Concrete Work,,F35,,Fixing slips and metal,"Fixing-slips, metal clips and the like shall each be enumerated separately stating the method",clause,62
+F36,F,Concrete Work,,F36,,Formwork,Formwork shall be given in accordance with clauses F19 to 24 hereof,clause,63
+F37,F,Concrete Work,,F37,,Prestressed concrete,(a) Prestressed concrete work (Le. work where reinforcement is tensioned before or as the,clause,64
+F38,F,Concrete Work,,F38,,Structural in-situ,(a) Structural in-situ members (e.g. beams; columns) shall be given in accordance with,clause,65
+F10,F,Concrete Work,,F10,,members Clause,hereof.,clause,66
+F39,F,Concrete Work,,F39,,"Cores, ducts and",(a) Forming and grouting or sealing the ducts or grooves shall be given in linear metres,clause,67
+F40,F,Concrete Work,,F40,,Wires and cables,(a) Supplying steel wires or cables (measured between anchorages) shall be given in,clause,68
+F41,F,Concrete Work,,F41,,Reinforcement,Reinforcement shall be in accordance with Clauses F16 to F18 hereof.,clause,69
+F42,F,Concrete Work,,F42,,Formwork,"(a) Formwork shall be given in accordance with Clauses F19 to F24 hereof, subject to the",clause,70
+F43,F,Concrete Work,,F43,,Precast prestressed,(a) A general description of the precast prestressed units and of the system and method of,clause,71
+F37,F,Concrete Work,,F37,,,,clause,72
+F37(c),F,Concrete Work,,F37,F37(c),,hereof.,subclause,73
+F44,F,Concrete Work,,F44,,Precast units,"(a) Precast units shall be enumerated stating the number, the size, the length, the height",clause,74
+F45,F,Concrete Work,,F45,,"Cores, wires and","Cores, ducts and recesses shall be given in accordance with Clause F39 hereof. Wires and cables shall",clause,75
+F40,F,Concrete Work,,F40,,reiforcement be given in accordance with Clause,hereof. Reinforcement shall be given in accordance with,clause,76
+F17,F,Concrete Work,,F17,,Clauses,to F19 hereof.,clause,77
+F46,F,Concrete Work,,F46,,Grinding and sand,"Grinding, sand-blasting, bush hammering, brushing to expose aggregate and like treatment to the",clause,78
+F47,F,Concrete Work,,F47,,Cutting grooves,"Cutting grooves, chases, rebates, chamfers and the like shall each be given separately in linear",clause,79
+F23,F,Concrete Work,,F23,,"chases, chamfers and metres stating the size. For such details produced by formwork see Clause",hereof.,clause,80
+F48,F,Concrete Work,,F48,,Holes,"(a) Holes for pipes, tubes, bars, cables, conduits and the like members (grouped together)",clause,81
+F49,F,Concrete Work,,F49,,Mortices,"Mortices, sinkings and the like shall each be enumerated separately stating the purpose. Running",clause,82
+F50,F,Concrete Work,,F50,,Making good,Making good concrete in connection with holes and mortices shall be given in the description of,clause,83
+G_HEADER,G,Walling,,,,,Walling,section_header,1
+G_SUB_2,G,Walling,Walling in connection with boilers,,,,Walling in connection with boilers,subsection,2
+G_SUB_3,G,Walling,Facework,,,,Facework,subsection,3
+G_SUB_4,G,Walling,Brick facework,,,,Brick facework,subsection,4
+G_SUB_5,G,Walling,Rubble walling,,,,Rubble walling,subsection,5
+G_SUB_6,G,Walling,Masonry,,,,Masonry,subsection,6
+G_SUB_7,G,Walling,Cast stonework,,,,Cast stonework,subsection,7
+G_SUB_8,G,Walling,Clayware work,,,,Clayware work,subsection,8
+G_SUB_9,G,Walling,Sundries,,,,Sundries,subsection,9
+G_SUB_10,G,Walling,Centering,,,,Centering,subsection,10
+G_SUB_11,G,Walling,Damp-proof courses,,,,Damp-proof courses,subsection,11
+G1,G,Walling,,G1,,Walling generally,Walling shall consist of blocks or bricks laid in mortar (e.g. solid and hollow concrete blockwork;,clause,12
+G2,G,Walling,,G2,,Particulars of the following,shall be given:-,clause,13
+G3,G,Walling,,G3,,Measurement of,(a) Walling shall be measured the mean length by the average height. No deductions shall be,clause,14
+G13,G,Walling,,G13,,and described. All other labours (except cutting chases as Clause,hereof) shall be,clause,15
+G4,G,Walling,,G4,,Classifications,(a) Walling shall be given in square metres stating the thickness. Classification shall be as,clause,16
+G5,G,Walling,,G5,,Cube walling,Walling in each of the following classes shall be given separately in cubic metres,clause,17
+G6,G,Walling,,G6,,Projections,"Walling in projections, bands, oversailing courses and the like (measured beyond the face of the wall)",clause,18
+G7,G,Walling,,G7,,Thicknessing,Walling of any thickness in each of the following classes shall be given separately in square metres,clause,19
+G8,G,Walling,,G8,,Grooved blocks,Grooved blocks and bricks shall be given in square metres as extra over the walling in which they,clause,20
+G9,G,Walling,,G9,,Flue lining,Refractory brick linings to flues shall be given in square metres stating the thickness. Those bonded to,clause,21
+G10,G,Walling,,G10,,Glass blocks,(a) Glass blockwork in walls and panels shall be given in square metres stating the size and,clause,22
+G11,G,Walling,,G11,,Cavity walls,(a) Forming cavities in hollow walls shall be given in square metres stating the width of the,clause,23
+G12,G,Walling,,G12,,Eaves,Walling in eaves-filling shall be given in linear metres as a labour filling and material item stating the,clause,24
+G13,G,Walling,,G13,,Chases,"Horizontal rough chases in new work for edges of floors, landings and roofs shall be deemed to be",clause,25
+G14,G,Walling,,G14,,Rough arches,Rough arches (measured the mean length on face) shall be given in linear metres as extra over the,clause,26
+G15,G,Walling,,G15,,Bonding ends,Bonding ends of new walling to other types of construction or to existing work shall be given in linear,clause,27
+G16,G,Walling,,G16,,Reinforced walls,Particulars of reinforcement in walls shall be given in the description of the item concerned,clause,28
+G17,G,Walling,,G17,,Seating and flues,(a) Boiler seatings and boiler flues shall be given in detail in accordance with the relevant,clause,29
+G18,G,Walling,,G18,,Chimneys,Chimney-shafts shall be given in detail in accordance with the relevant Clauses hereof under an,clause,30
+G19,G,Walling,,G19,,Facework generally,(a) The rules relating to facework shall apply equally to fair face.,clause,31
+G20,G,Walling,,G20,,Angles and chases,(a) Fair vertical internal angles and fair vertical external angles shall be deemed to be included,clause,32
+G21,G,Walling,,G21,,Tile creasings,"(a) Flush, sunk and projecting tile creasings shall each be given separately in linear metres as",clause,33
+G22,G,Walling,,G22,,Quoins,(a) Facework of flush quoins formed with facing blocks or bricks which differ in kind or size,clause,34
+G23,G,Walling,,G23,,Arches,Facework to arches (measured the mean length on face) shall be given in linear metres stating the,clause,35
+G24,G,Walling,,G24,,Tumblings of,Facework to tumblings of buttresses shall be enumerated stating the size,clause,36
+G25,G,Walling,,G25,,Walling faced or fair,(a) Stone walling faced both sides built with blocks extending the full thickness of the wall,clause,37
+G26,G,Walling,,G26,,Angles,"Purpose-made bricks to form bull-nosed, squint, birdsmouth or moulded angles and the like shall be",clause,38
+G27,G,Walling,,G27,,Band courses,(a) Facework to all sunk and projecting plain bands not exceeding 300 millimetres and flush,clause,39
+G28,G,Walling,,G28,,Bricks on edge or,"(a) Facework, to flush, sunk and projecting brick-on-edge bands, dentilled bands, basket-",clause,40
+G29,G,Walling,,G29,,"Cills, thresholds","(a) Cills, thresholds, copings and steps built of fair-faced brickwork or entirely of facings shall",clause,41
+G30,G,Walling,,G30,,"Key blocks, corbels","Key blocks, corbels, bases to pilasters, and cappings to isolated piers shall be enumerated separately",clause,42
+G31,G,Walling,,G31,,Rubble walling,Rubble work shall consist of natural stones either irregular in shape or roughly dressed and laid dry or,clause,43
+G32,G,Walling,,G32,,Dry rubble work (i.e. work built without mortar),shall be so described.,clause,44
+G33,G,Walling,,G33,,Particulars of the following,shall be given:-,clause,45
+G34,G,Walling,,G34,,Levelled courses,"Levelling uncoursed rubble work for damp-proof courses, band-sills, places, copings and the like",clause,46
+G35,G,Walling,,G35,,Dressed margins,Dressed margins on rubble work shall be given in linear metres stating the width of the margin. Stops,clause,47
+G36,G,Walling,,G36,,Copings,Copings formed of rough stones shall be given in linear metres stating the width and average height of,clause,48
+G37,G,Walling,,G37,,Masonry generally,(a) Masonry shall consist of dressed blocks of natural stone accurately worked to given,clause,49
+G38,G,Walling,,G38,,Measurement,(a) Superficial items of work shall be measured the mean length by the average height as,clause,50
+G46,G,Walling,,G46,,work see Clause,hereof. Work curved on plan shall be so described stating the mean,clause,51
+G39,G,Walling,,G39,,Ends and angles of,"(a) Square ends, square reveals and square external angles of walls shall be given in linear",clause,52
+G40,G,Walling,,G40,,Stone facework,(a) Stone facework bonded to a backing of other material shall be given in square metres,clause,53
+G41,G,Walling,,G41,,Stone slabbing or,For pavings and stone slabbing or cladding to walls see Section S.,clause,54
+G42,G,Walling,,G42,,Rough cutting,"(a) Rough notchings and rough sinkings (grouped together) for steel sections, concrete",clause,55
+G43,G,Walling,,G43,,Fair cutting,(a) Fair raking cutting on superficial items of stonework shall be given in linear metres stating,clause,56
+G44,G,Walling,,G44,,Rustications,Rustications shall be given in the description of the stonework on which they occur,clause,57
+G45,G,Walling,,G45,,"Grooves, rebates","(a) Grooves, throats, rebates, margins, flutes, sinkings, chamfered angles, rounded angles",clause,58
+G46,G,Walling,,G46,,Mouldings,(a) Mouldings on superficial items of stonework shall be given in linear metres stating the,clause,59
+G47,G,Walling,,G47,,Enrichments,Enrichments (e.g. bead-and-reel; egg-and-dart; dentils) shall each be given separately in linear metres,clause,60
+G48,G,Walling,,G48,,Ornaments,"Ornaments (e.g. scrolls, rosettes; crockets) shall each be enumerated separately stating the size. The",clause,61
+G49,G,Walling,,G49,,Small panels,(a) Stones forming small panels (i.e. panels not exceeding 0.10 square metres) shall each be,clause,62
+G50,G,Walling,,G50,,Pilasters,(a) Stones forming pilasters shall be given in linear metres (measured vertically) stating the,clause,63
+G51,G,Walling,,G51,,Quoins and jambs,Stones forming quoins and jambs shall each be given separately in linear metres (measured vertically),clause,64
+G52,G,Walling,,G52,,Columns,(a) Independent columns shall be given in linear metres ( measured vertically) stating the size,clause,65
+G53,G,Walling,,G53,,"Lintels, sills, transoms","(a) Lintels, sills, mullions, and transoms shall each be given separately in mullions & linear",clause,66
+G54,G,Walling,,G54,,"Copings, cornices and","(a) Copings, cornices, band-courses, string-courses, plinth cappings and the like members shall",clause,67
+G55,G,Walling,,G55,,Slab architraves and,(a) Slab architraves and slab surrounds to openings (i.e. slabs not bonded to surrounding,clause,68
+G56,G,Walling,,G56,,Arches,"Springers, voussoirs and keystones of arches shall be enumerated separately stating the size of the",clause,69
+G57,G,Walling,,G57,,Pier -caps and,"Pier-caps, chimney-caps and the like shall each be enumerated separately stating the size. Openings",clause,70
+G58,G,Walling,,G58,,"Finials, brackets and","Finials, terminals, brackets, corbels and the like shall each be enumerated separately stating the size",clause,71
+G59,G,Walling,,G59,,Tracery,Stones forming tracery shall be enumerated stating the size,clause,72
+G60,G,Walling,,G60,,Special features,Special features composed of one or more stones (e.g. ornamental panels; oriel windows; bullseye,clause,73
+G61,G,Walling,,G61,,"Steps, winders and",(a) Steps (except winders) shall be given in linear metres stating the size and the number of,clause,74
+G62,G,Walling,,G62,,"Handrails, cappings","(a) Handrails, cappings and kerbs shall each be given separately in linear metres stating the",clause,75
+G63,G,Walling,,G63,,Balustrade panelS,Balustrade panels and the like shall be enumerated stating the size. Those of irregular shape and,clause,76
+G64,G,Walling,,G64,,Balusters and newels,"Balusters, half-balusters, newels and newel-caps shall each be enumerated separately stating the",clause,77
+G65,G,Walling,,G65,,Cover-stones and,"Cover-stones, corbel-courses and the like shall be given separately in linear metres stating the size.",clause,78
+G66,G,Walling,,G66,,"Templates, bases and","Templates. bases. thresholds, hearths and the like shall each be enumerated separately stating the",clause,79
+G67,G,Walling,,G67,,"Shelves, divisions","(a) Shelves, divisions, table-tops, work-tops, counter-tops, seats, bath-panels and the like",clause,80
+G68,G,Walling,,G68,,Carvings and,(a) Carving and sculpture shall each be enumerated separately stating the character of the,clause,81
+G69,G,Walling,,G69,,Cast stonework,(a) Cast stonework shall consist of blocks of reconstructed or artificial stone accurately cast,clause,82
+G70,G,Walling,,G70,,Work in cast stone,Work in cast stone shall be given in accordance with the rules for masonry in Clauses G37 to G68,clause,83
+G71,G,Walling,,G71,,Clayware Generally,(a) Clayware work shall consist of blocks of fired C1ayware cast to given dimensions and used,clause,84
+G72,G,Walling,,G72,,Work in clayware,Work in clayware shall be given in accordance with the rules for masonry in Clauses G37 to G68,clause,85
+G73,G,Walling,,G73,,Preparing for raising,(a) Preparing tops of old walls to receive new shall be given in linear metres stating the,clause,86
+G74,G,Walling,,G74,,Weather fillets and,Weather-fillets and angle-fillets shall each be given separately in linear metres stating the width.,clause,87
+G75,G,Walling,,G75,,Bedding,"Bedding plates, corrugated sheeting, wood frames and sills and the like and pointing to one or both",clause,88
+G76,G,Walling,,G76,,Wedging and pinner,Wedging and pinning up new work to underside of old construction in cases where the load is to be,clause,89
+G77,G,Walling,,G77,,Cutting grooves,Cutting grooves for water-bars and the like shall be given in linear metres,clause,90
+G78,G,Walling,,G78,,Preparing for,(a) Raking out joint or cutting groove for turned-in edge of flashings shall be given in linear,clause,91
+G79,G,Walling,,G79,,Building in or cutting,"(a) Building in metal windows, metal doors and the like (complete with frames) shall each be",clause,92
+G80,G,Walling,,G80,,Holes,"(a) Holes for pipes, tubes, bars, cables, conduits and the like members (grouped together)",clause,93
+G81,G,Walling,,G81,,Mortices,"(a) Mortices and sinkings for ragbolts, bars, rails, and the like (grouped together) shall each be",clause,94
+G82,G,Walling,,G82,,Making good,"Making good walls in connection with any of the labours mentioned in clauses G79, G80 and G81",clause,95
+G80,G,Walling,,G80,,with any of the labours mentioned in Clauses G79,and G81 hereof shall be given in the,clause,96
+G83,G,Walling,,G83,,"Air-bricks, ventilating","Forming openings in walls and providing and building in air-bricks, ventilating gratings, soot-doors and",clause,97
+G84,G,Walling,,G84,,Flues,(a) Parging and coring flues shall be given in linear metres stating the internal size of the flue,clause,98
+G85,G,Walling,,G85,,Gas flue-blocks,Flue-blocks shall be enumerated stating the type of blocks and the size and number of flues in each,clause,99
+G86,G,Walling,,G86,,Chimney-pots,Chimney-pots shall be enumerated stating the type and the size. Setting and flaunching shall be given,clause,100
+G87,G,Walling,,G87,,Stoves and surrounds,"(a) Stoves, grates, mantels, ranges and similar units shall each be enumerated separately",clause,101
+G88,G,Walling,,G88,,Cramps,"Metal cramps, slate dowels, metal dowels, lead plugs and the like shall each be enumerated",clause,102
+G89,G,Walling,,G89,,Coating backs of,Coating backs of stones or blocks with slurry shall be given in the description of the walling on which,clause,103
+G90,G,Walling,,G90,,Centering generally,(a) Particulars of the following shall be given:-,clause,104
+G91,G,Walling,,G91,,Flat soffits,(a) Centering for flat soffits over 300 millimetres wide and not exceeding 2 metres span shall,clause,105
+G92,G,Walling,,G92,,Curved and vaulted,Centering for curved soffits and vaulted soffits shall each be given separately in square metres.,clause,106
+G93,G,Walling,,G93,,Arches,"Centering for segmental, semicircular, invert and other curved arches shall each be enumerated",clause,107
+G94,G,Walling,,G94,,Labours on centering,"(a) Raking cutting, curved cutting, cutting to groin points, cutting to inter-sections, cutting",clause,108
+G95,G,Walling,,G95,,Supports to projecting,"(a) Supports to projecting masonry (e.g. corbel-courses; cornices, pediments; hoods) shall be",clause,109
+G96,G,Walling,,G96,,Damp-proof courses,Particulars of the following shall be given:-,clause,110
+G97,G,Walling,,G97,,State and sheet,"(a) Sheet damp-proof courses (e.g. bitumen-felt; sheet lead; sheet copper,) over 300",clause,111
+H_HEADER,H,Underpinning,,,,,Underpinning,section_header,1
+H_SUB_2,H,Underpinning,Generally to Section H,,,,Generally to Section H,subsection,2
+H_SUB_3,H,Underpinning,Work in all trades,,,,Work in all trades,subsection,3
+H1,H,Underpinning,,H1,,Underpinning,(a) Underpinning work shall be given as a Section in the bill,clause,4
+H2,H,Underpinning,,H2,,Work Generally,Underpinning work shall be given in accordance with the rules in the relevant sections hereof except,clause,5
+H3,H,Underpinning,,H3,,Excavation,(a) Temporary supports to work to be underpinned shall be given as an item. Particulars of,clause,6
+J_HEADER,J,Asphalt Work,,,,,Asphalt Work,section_header,1
+J_SUB_2,J,Asphalt Work,Generally to Section J,,,,Generally to Section J,subsection,2
+J_SUB_3,J,Asphalt Work,Mastic asphalt,,,,Mastic asphalt,subsection,3
+J1,J,Asphalt Work,,J1,,Works generally,"(a) Work shall be grouped as follows and each group with its associated skirtings, angle-fillets",clause,4
+J2,J,Asphalt Work,,J2,,Coverings to surfaces,(a) Coverings shall be measured the area in contact with the base and shall include all labours,clause,5
+J3,J,Asphalt Work,,J3,,Skirtings fascias and,"Skirtings, fascias and aprons shall each be given separately in linear metres stating the",clause,6
+J4,J,Asphalt Work,,J4,,"Gutters, valleys, and","(a) Linings to gutters, linings to valleys and coverings to kerbs shall each be given separately in",clause,7
+J5,J,Asphalt Work,,J5,,Channels,(a) Linings to channels shall be given in accordance with the rules for lining to gutters in J4,clause,8
+J6,J,Asphalt Work,,J6,,Cesspools and collars,"(a) Linings to cesspools, sumps and the like shall each be enumerated separately stating the",clause,9
+K_HEADER,K,Roofing,,,,,Roofing,section_header,1
+K_SUB_2,K,Roofing,Slate of tile roofing,,,,Slate of tile roofing,subsection,2
+K_SUB_3,K,Roofing,Corrugated or troughed sheet roofing,,,,Corrugated or troughed sheet roofing,subsection,3
+K_SUB_4,K,Roofing,Thatch roofing,,,,Thatch roofing,subsection,4
+K_SUB_5,K,Roofing,Roof decking,,,,Roof decking,subsection,5
+K_SUB_6,K,Roofing,Bitumen-felt roofing,,,,Bitumen-felt roofing,subsection,6
+K_SUB_7,K,Roofing,Sheet metal roofing,,,,Sheet metal roofing,subsection,7
+K_SUB_8,K,Roofing,Sheet metal flashings and gutter linings and metal trims,,,,Sheet metal flashings and gutter linings and metal trims,subsection,8
+K1,K,Roofing,,K1,,Roofing Generally,(a) Work shall be grouped according to the kind of material and each group with its,clause,9
+K2,K,Roofing,,K2,,Tile roofing,Particulars of the following shall be given:-,clause,10
+K3,K,Roofing,,K3,,Roof coverings,Roof coverings shall be given in square metres. Coverings over 45 degrees from horizontal and,clause,11
+K4,K,Roofing,,K4,,Labours on roof,(a) Square cutting around openings shall be given in linear metres. Square cutting against,clause,12
+K5,K,Roofing,,K5,,Eaves,Double course at eaves and extra undercourse at eaves shall each be given separately in linear,clause,13
+K6,K,Roofing,,K6,,Verges,"Verges shall be given in linear metres. Raking verges, curved verges and verges with purpose-made",clause,14
+K7,K,Roofing,,K7,,Valleys,(a) Cutting to valleys (measured to both sides) shall be given in linear metres. Oneand-half-,clause,15
+K8,K,Roofing,,K8,,Hips and vertical,(a) Cutting to hips and cutting to vertical angles (measured to both sides) shall each be given,clause,16
+K9,K,Roofing,,K9,,Ridges and hip,Ridge-cappings and hip-cappings shall each be given separately in linear metres. Bedding and,clause,17
+K10,K,Roofing,,K10,,Special fillings,Tile slips and other fillings shall each be given separately in linear metres. Bedding and pointing,clause,18
+K11,K,Roofing,,K11,,Hip-irons,Hip-irons shall be enumerated stating the method of fixing,clause,19
+K12,K,Roofing,,K12,,Metal slates and,Metal slates and metal soakers shall each be enumerated separately stating the size,clause,20
+K13,K,Roofing,,K13,,Glass tiles,Glass tiles and the like shall be enumerated as extra over the coverings in which they occur,clause,21
+K14,K,Roofing,,K14,,Lathing or battening,(a) Lathing or battening shall be given in the description of roofing (see Clause K2 (iv) hereof).,clause,22
+K15,K,Roofing,,K15,,Under felting,Underfelting shall be given in square metres stating the extent of the laps and the method of fixing.,clause,23
+K16,K,Roofing,,K16,,Corrugated or,Particulars of the following shall be given:-,clause,24
+K17,K,Roofing,,K17,,Roof covering,"(a) Roof coverings shall be given in square metres, and shall include all cuttings and waste.",clause,25
+K18,K,Roofing,,K18,,Labours on roof,(a) Square cutting around openings shall be given in linear metres except in cases where the,clause,26
+K19,K,Roofing,,K19,,Filler pieces,"Filler-pieces at eaves and jambs and openings, filler-pieces above roof glazing and over lintols,",clause,27
+K20,K,Roofing,,K20,,Bedding and pointing,"Bedding and pointing at eaves, verges, and the like and bedding and pointing eaves filler pieces shall",clause,28
+K21,K,Roofing,,K21,,"Ridge, hip and angle","Ridge-cappings, hip-cappings and vertical angle-cappings shall each be given separately in linear",clause,29
+K22,K,Roofing,,K22,,Berge-boards,Barge-boards and corner-pieces shall each be given separately in linear metres stating the width.,clause,30
+K23,K,Roofing,,K23,,Flashings and,(a) Flashings and expansion joints shall be given separately in linear metres stating the overall,clause,31
+K24,K,Roofing,,K24,,Louvres,Louvre-blades shall be given in linear metres stating the width or girth and the number,clause,32
+K25,K,Roofing,,K25,,Roof-lights special,(a) Fixed and opening roof-lights (exclusive of glass) shall each be enumerated and separately,clause,33
+K26,K,Roofing,,K26,,Roof Ventilators,Roof ventilators shall be enumerated stating the size and the type of base.,clause,34
+K27,K,Roofing,,K27,,Thatch roofing,(a) Particulars of the following shall be given:-,clause,35
+K28,K,Roofing,,K28,,Roof coverings,(a) Roof coverings (except to dormers and turrets) shall be given in square metres. over 45,clause,36
+K29,K,Roofing,,K29,,Labours on roof,"(a) Cutting and facing to top abutments, side abutments, tile valleys, metal valleys,",clause,37
+K30,K,Roofing,,K30,,"Eaves, verges, and","Eaves, verges, hips, valleys, ridges and the like (measured extreme dimensions) where involving",clause,38
+K31,K,Roofing,,K31,,Wire netting,(a) Wire netting (measured the area covered) shall be given in square metres stating the,clause,39
+K32,K,Roofing,,K32,,Roof decking,Particulars of the following shall be given:-,clause,40
+K33,K,Roofing,,K33,,Roof coverings,Roof coverings shall be given in square metres. Coverings over 45 degrees from horizontal and,clause,41
+K34,K,Roofing,,K34,,Labours on roof,"(a) Square cutting around openings over 0.50 square metre shall be given in linear metres,",clause,42
+K35,K,Roofing,,K35,,"Bearings, eaves, kerbs","Bearings, eaves, kerbs, flashings and abutments with nibs built into chases shall each be given",clause,43
+K36,K,Roofing,,K36,,Waterproofing roofs,(a) Particulars of the following shall be given:-,clause,44
+K37,K,Roofing,,K37,,Roof coverings,Roof coverings shall be given in square metres. Classification shall be as follows:-,clause,45
+K38,K,Roofing,,K38,,Labours on roof,"(a) Raking cutting, curved cutting, fair edges, turning into grooves, wedging and the like",clause,46
+K39,K,Roofing,,K39,,"Flashings, skirtings","The turndown at eaves, verges and aprons shall be given separately in linear metres stating the",clause,47
+K40,K,Roofing,,K40,,"Gutters, valleys and","(a) Linings to gutters, channels and valleys and coverings to kerbs shall each be given",clause,48
+K41,K,Roofing,,K41,,Channels,Forming shallow channels including additional material shall be given in linear metres as extra over,clause,49
+K42,K,Roofing,,K42,,Sumps and collars,(a) Linings to sumps and the like (grouped together) shall be enumerated stating the size.,clause,50
+K43,K,Roofing,,K43,,Sheet metal roofing,(a) Particulars of the following shall be given:-,clause,51
+K44,K,Roofing,,K44,,Roof coverings,Roof covering will be given in square metres. |Classification shall be as follows:-,clause,52
+K45,K,Roofing,,K45,,Labour on sheet,(a) Raking cutting and curved cutting shall each be given separately in linear metres,clause,53
+K46,K,Roofing,,K46,,Copper nailing,Nailing shall be given in linear metres and described,clause,54
+K47,K,Roofing,,K47,,Collars around pipes,"Collars around pipes, standards and the like members passing through roofs (grouped together) shall",clause,55
+K48,K,Roofing,,K48,,Sumps and the like,Linings to sumps and the like (grouped together) shall be enumerated stating the size. Outlets and,clause,56
+K49,K,Roofing,,K49,,Sheet metal flashings,(a) Dressing gutters through outlets dressing into rainwater heads and the like labour shall,clause,57
+K50,K,Roofing,,K50,,Flashings,"(a) Flashings, stepped flashings, aprons, weatherings to cornices, cappings to hips, ridges,",clause,58
+K51,K,Roofing,,K51,,Preformed flashings,"Preformed flashings and trims, aprons, cappings and the like shall each be given separately in linear",clause,59
+K52,K,Roofing,,K52,,Flat gutters,Flat gutter coverings shall be given in accordance with the rules for sheet metal roofing. (See Clause,clause,60
+K44,K,Roofing,,K44,,,(iii) hereof).,clause,61
+K53,K,Roofing,,K53,,Sloping gutters,(a) Linings to sloping gutters shall be given in linear metres stating the girth of the metal.,clause,62
+K54,K,Roofing,,K54,,Soakers and metal,Supplying soakers and metal slates (for fixing by tiler) shall be enumerated separately stating the size.,clause,63
+K55,K,Roofing,,K55,,Saddles,Saddles over abutments and intersections of hips and ridges (grouped together) shall be enumerated,clause,64
+L_HEADER,L,Carpentry,,,,,Carpentry,section_header,1
+L_SUB_2,L,Carpentry,Structural timbers,,,,Structural timbers,subsection,2
+L_SUB_3,L,Carpentry,Boarding,,,,Boarding,subsection,3
+L_SUB_4,L,Carpentry,Fillets grounds batterns and bracketing,,,,Fillets grounds batterns and bracketing,subsection,4
+L_SUB_5,L,Carpentry,Sundries,,,,Sundries,subsection,5
+L1,L,Carpentry,,L1,,Carpentry generally,(a) Particulars of the following shall be given:-,clause,6
+L2,L,Carpentry,,L2,,Structural timbers,(a) Structural timbers shall be measured the net length as fixed in the work and given in linear,clause,7
+L3,L,Carpentry,,L3,,Framed structural,"In the case of framed structural timbers such as trusses, trussed rafters, and trussed beams,",clause,8
+L2,L,Carpentry,,L2,,the bill. The constituent members of the frame shall be measured as provided in Clause,hereof.,clause,9
+L4,L,Carpentry,,L4,,Structural timber,(a) Structural poles shall be measured in linear metres (below and above the ground level),clause,10
+L5,L,Carpentry,,L5,,Labours on structural,"(a) All cutting, scribing, splaying, notching, halving, morticing, tenoning and wedging shall be",clause,11
+L6,L,Carpentry,,L6,,Brandering and,Brandering and nogging between joists measured over the joists shall each be given separately in,clause,12
+L7,L,Carpentry,,L7,,Cleats and sprockets,"Cleats, sprockets, and the like shall each be enumerated separately stating the size",clause,13
+L8,L,Carpentry,,L8,,Boarding generally,Boarding shall be measured as executed describing the function. No allowance shall be made for,clause,14
+L9,L,Carpentry,,L9,,Weather boarding,Weather- boarding shall state the extreme thickness and width of the boards and the,clause,15
+L10,L,Carpentry,,L10,,Gutter-boarding,(a) Gutter- boarding and gutter -sides over 300 millimetres maximum width in each length,clause,16
+L11,L,Carpentry,,L11,,Eaves and verge,(a) Boarding over 300 millimetres wide to eaves and the like (grouped together) together),clause,17
+L12,L,Carpentry,,L12,,Labours on boarding,"(a) Raking cutting, curved cutting and scribed edges on boarding and perimeter cutting on",clause,18
+L13,L,Carpentry,,L13,,Fascia and barge,Fascia-boards and barge-boards shall each be given separately in linear metres stating the width,clause,19
+L14,L,Carpentry,,L14,,Fillets grounds and,"(a) Fillet, grounds, batterns and the like shall be given in linear metres stating the size",clause,20
+L15,L,Carpentry,,L15,,Skeleton framework,(a) Skeleton framework over 300 millimetres wide (measured overall) shall be given in square,clause,21
+L16,L,Carpentry,,L16,,Bracketing,(a) Bracketing to form shaped false ceilings shall be given in detail.,clause,22
+L17,L,Carpentry,,L17,,Plugging,"Plugging to concrete, brickwork, blockwork and stonework (grouped together) and irrespective of the",clause,23
+M_HEADER,M,Joinery,,,,,Joinery,section_header,1
+M_SUB_2,M,Joinery,Flooring,,,,Flooring,subsection,2
+M_SUB_3,M,Joinery,"Boarded or panelled linings, casing and partitions",,,,"Boarded or panelled linings, casing and partitions",subsection,3
+M_SUB_4,M,Joinery,"Doors, windows, skylights and lanterns",,,,"Doors, windows, skylights and lanterns",subsection,4
+M_SUB_5,M,Joinery,"Frames, sills and kerbs",,,,"Frames, sills and kerbs",subsection,5
+M_SUB_6,M,Joinery,"Fillets, glazing and beads and grounds",,,,"Fillets, glazing and beads and grounds",subsection,6
+M_SUB_7,M,Joinery,"Shelves, table-tops and seats",,,,"Shelves, table-tops and seats",subsection,7
+M_SUB_8,M,Joinery,Draining-boards and backboards,,,,Draining-boards and backboards,subsection,8
+M_SUB_9,M,Joinery,Fittings and fixtures,,,,Fittings and fixtures,subsection,9
+M_SUB_10,M,Joinery,Staircases,,,,Staircases,subsection,10
+M_SUB_11,M,Joinery,Standard units,,,,Standard units,subsection,11
+M_SUB_12,M,Joinery,Sundries,,,,Sundries,subsection,12
+M_SUB_13,M,Joinery,Ironmongery,,,,Ironmongery,subsection,13
+M1,M,Joinery,,M1,,Joinery Generally,(a) Particulars for the following shall be given,clause,14
+M2,M,Joinery,,M2,,Flooring generally,(a) Flooring shall be measured as executed. No. allowances shall be made for tongues in,clause,15
+M3,M,Joinery,,M3,,Board flooring and,Board and strip flooring shall be given in square metres stating the nominal width of the boards or,clause,16
+M4,M,Joinery,,M4,,Cutting on flooring,"(a) Raking cutting, curved cutting and scribed edges on board and strip flooring and perimeter",clause,17
+M5,M,Joinery,,M5,,Nosing and margins,"Nosings, bed-moulds and margins shall each be given separately in linear metres as extra over the",clause,18
+M6,M,Joinery,,M6,,Access trap door,Access trapdoors in floors shall be enumerated as extra over the flooring in which they occur stating,clause,19
+M7,M,Joinery,,M7,,"Linings, casings and",(a) Boarded work shall be measured as executed. No allowance shall be made for tongues in,clause,20
+M8,M,Joinery,,M8,,Wall and ceiling,(a) Linings over 300 millimetres wide to walls and ceilings shall each be given separately in,clause,21
+M9,M,Joinery,,M9,,Beams and column,"(a) Casings (measured on external face) around sides and soffits of beams, Iintols, cantilevers,",clause,22
+M10,M,Joinery,,M10,,Cuttings on linings,"(a) Cuttings on the individual boards of conical boarding, spherical boarding and on groined",clause,23
+M11,M,Joinery,,M11,,Applied mouldings,"Applied mouldings (other than panel moulds), cappings, inlays and the like shall each be given",clause,24
+M12,M,Joinery,,M12,,Caps and bases to,Caps and bases to columns and pilasters shall each be enumerated separately stating the site.,clause,25
+M13,M,Joinery,,M13,,Pipe casings,Casings (measured on external face) around pipes shall each be given separately in linear metres,clause,26
+M14,M,Joinery,,M14,,Access trap doors,Access trap doors in linings and casings shall be enumerated as extra over the work in which they,clause,27
+M15,M,Joinery,,M15,,Doors,(a) Doors shall be given in square metres irrespective of type (i.e. no distinction being made,clause,28
+M16,M,Joinery,,M16,,Casements,(a) Casements shall be given in square metres stating the thickness and the number.,clause,29
+M17,M,Joinery,,M17,,Double-hung sash,(a) Double-hung sash windows shall be measured over the frames and sills,clause,30
+M18,M,Joinery,,M18,,Skylights and lanterns,(a) Skylights and lantern-tops shall each be given separately and enumerated stating the size,clause,31
+M19,M,Joinery,,M19,,Windows-boards and,"Window-boards, nosings and bed moulds shall each be given separately in linear metres stating the",clause,32
+M20,M,Joinery,,M20,,"Frames, sills and","(a) Frames, mullions, transomes, sills and kerbs shall be measured the length as fixed in the",clause,33
+M21,M,Joinery,,M21,,Fillets,(a) Weather fillets and the like shall be given in linear metres stating the size. Those which are,clause,34
+M22,M,Joinery,,M22,,Glazing beads and,Glazing-beads and the like except where otherwise included with the items shall be given in linear,clause,35
+M23,M,Joinery,,M23,,Grounds and wall,"Grounds (or battens) shall be given in linear metres stating the size, or they may be given in the",clause,36
+M24,M,Joinery,,M24,,"Skirtings, architraves","(a) Skirtings, architraves, picture-rails, dado-rails, wall mouldings, cornices, cappings, pelmets,",clause,37
+M25,M,Joinery,,M25,,"Shelves, table-tops","(a) Shelves, divisions, table-tops, work-tops, counter- tops, seats and the like over 300",clause,38
+M26,M,Joinery,,M26,,Cuttings and housings,"(a) Raking cutting, curved cutting and scribed edges shall each be given separately in linear",clause,39
+M27,M,Joinery,,M27,,Draining-boards and,(a) Draining-boards shall be given in square metres stating the thickness and the number.,clause,40
+M28,M,Joinery,,M28,,Fittings,(a) Fittings and fixtures (e.g. cupboards; tables; work-benches; and counters; dressers;,clause,41
+M29,M,Joinery,,M29,,Applied coverings,"(a) Applied coverings (e.g., plastics subject to clause 25 (a) hereof) shall be given in square",clause,42
+M30,M,Joinery,,M30,,Staircases generally,Work in staircases shall be given under an appropriate heading.,clause,43
+M31,M,Joinery,,M31,,Landings,(a) Landings shall be given in square metres stating the thickness and the method of jointing.,clause,44
+M32,M,Joinery,,M32,,Treads and risers,(a) Treads and risers (grouped together) shall be given in square metres stating the thickness,clause,45
+M33,M,Joinery,,M33,,Strings apron-linings,"Strings, apron-linings, cappings and applied mouldings shall each be given separately in linear metres",clause,46
+M34,M,Joinery,,M34,,Handrails,"(a) Handrails shall be given in linear metres stating the size. Curved handrails, ramped",clause,47
+M35,M,Joinery,,M35,,Balusters and newels,(a) Balusters shall be enumerated stating the size and the length. Framed ends and housed,clause,48
+M36,M,Joinery,,M36,,Standard units,Stock-pattern units and standard units (eg doors; casement windows; double-hung sash windows;,clause,49
+M37,M,Joinery,,M37,,Plugging,"Plugging to concrete, brickwork, blockwork, and stonework (grouped together and irrespective of the",clause,50
+M38,M,Joinery,,M38,,Holes in Timber,(a) Holes and countersunk holes for bolts and the like shall each be enumerated separately,clause,51
+M39,M,Joinery,,M39,,Ironmongery,(a) Particulars of the following shall be given:-,clause,52
+M40,M,Joinery,,M40,,Waterbars,Water bars in sills and the like shall be given in linear metres stating the size. Those bedded in,clause,53
+M41,M,Joinery,,M41,,Dowels and cramps,Dowels and cramps shall each be enumerated separately stating the size. Mortices in timber shall be,clause,54
+M42,M,Joinery,,M42,,Bolts,Bolts shall be enumerated stating the diameter and length. Nuts and washers shall be given in the,clause,55
+N_HEADER,N,Structural Steelwork,,,,,Structural Steelwork,section_header,1
+N_SUB_2,N,Structural Steelwork,Grillages and girders,,,,Grillages and girders,subsection,2
+N_SUB_3,N,Structural Steelwork,"Stanchions, columns and portal frames",,,,"Stanchions, columns and portal frames",subsection,3
+N_SUB_4,N,Structural Steelwork,"Roof members, braces, struts and rails",,,,"Roof members, braces, struts and rails",subsection,4
+N_SUB_5,N,Structural Steelwork,Sundries,,,,Sundries,subsection,5
+N1,N,Structural Steelwork,,N1,,Structural steelwork,(a) Steelwork shall be grouped as follows and each group with its associated labours shall be,clause,6
+N2,N,Structural Steelwork,,N2,,Grillages,(a) Grillages shall be given in kilogrammes.,clause,7
+N1,N,Structural Steelwork,,N1,,components classified as Clause,(g) stating the weight-group as Clause N1 (h) hereof.,clause,8
+N4,N,Structural Steelwork,,N4,,with the rules for compound girders in Clause,(c) hereof.,clause,9
+N3,N,Structural Steelwork,,N3,,Girders,(a) Girders shall be given in kilogrammes.,clause,10
+N1,N,Structural Steelwork,,N1,,as Clause,(g) hereof stating the weight group as Clause N1 (h) hereof.,clause,11
+N1,N,Structural Steelwork,,N1,,kilogrammes stating the weight-group of the angles as Clause,(h) hereof. Those,clause,12
+N4,N,Structural Steelwork,,N4,,Stanchions,(a) Stanchions shall be given in kilogrammes,clause,13
+N1,N,Structural Steelwork,,N1,,classified as Clause,(g) hereof stating the weight- group as Clause N1 (h) hereof and the,clause,14
+N5,N,Structural Steelwork,,N5,,Solid or tubular,(a) Solid steel columns shall be given in kilogrammes stating the diameter and the number of,clause,15
+N6,N,Structural Steelwork,,N6,,Portal frames,Portal frames shall be given in kilogrammes stating the composition and the span.,clause,16
+N7,N,Structural Steelwork,,N7,,Roof trusses,"(a) Roof-trusses shall be given in kilogrammes stating the span in stages of 3 metres, the rise",clause,17
+N8,N,Structural Steelwork,,N8,,"Gables, hips and","Gable-members, hip-members, valley-members and the like (grouped together) shall be given in",clause,18
+N1,N,Structural Steelwork,,N1,,valleys kilograms and classified as Clause,(g) hereof stating the weight group as Clause N1 (h) hereof.,clause,19
+N9,N,Structural Steelwork,,N9,,Purlins rails,(a) Purlins and rails shall be given in kilogrammes or alternatively in linear metres and stating,clause,20
+N1,N,Structural Steelwork,,N1,,Clause,(g) hereof stating the weight group as Clause N1 (h) hereof.,clause,21
+N10,N,Structural Steelwork,,N10,,Braces and struts,"Braces, struts and the like (grouped together) shall be given in kilogrammes and classified as Clause N1",clause,22
+N1,N,Structural Steelwork,,N1,,(g) hereof stating the weight-group as Clause,(h) hereof,clause,23
+N11,N,Structural Steelwork,,N11,,Fittings,(a) Fittings to unframed steelwork (e.g. caps; bases; splice-plates; cleats; brackets; stiffeners;,clause,24
+N12,N,Structural Steelwork,,N12,,Holes,"Holes, countersunk holes and tapped holes which are required for other trades shall each be",clause,25
+N13,N,Structural Steelwork,,N13,,Site rivets,(a) Driving rivets on site shall be deemed to be included with the items. The weight of the,clause,26
+N14,N,Structural Steelwork,,N14,,Wedging bases and,Wedging under stanchion-bases and under steel grillages shall each be enumerated separately,clause,27
+N15,N,Structural Steelwork,,N15,,Turned bolts,Turned-bolts shall be enumerated stating the diameter and the length. Nuts and washers shall be,clause,28
+N16,N,Structural Steelwork,,N16,,Anchor bolts,Anchor- bolts shall be given in kilogrammes stating the diameter. Nuts and washers shall be given in,clause,29
+N17,N,Structural Steelwork,,N17,,Gutters,(a) Gutters in conjunction with structural steel work shall be given in kilogrammes or,clause,30
+N18,N,Structural Steelwork,,N18,,Painting,Painting by the steel fabricators or erectors shall be given in squaremetres of the surface to be,clause,31
+P_HEADER,P,Metal Work,,,,,Metal Work,section_header,1
+P_SUB_2,P,Metal Work,"Work in plates, bars, section and tubes",,,,"Work in plates, bars, section and tubes",subsection,2
+P_SUB_3,P,Metal Work,Work in sheet metal,,,,Work in sheet metal,subsection,3
+P_SUB_4,P,Metal Work,Work in wire mesh or expanded metal,,,,Work in wire mesh or expanded metal,subsection,4
+P_SUB_5,P,Metal Work,Compose units,,,,Compose units,subsection,5
+P_SUB_6,P,Metal Work,Standard units,,,,Standard units,subsection,6
+P_SUB_7,P,Metal Work,Sundries,,,,Sundries,subsection,7
+P1,P,Metal Work,,P1,,Metal work generally,(a) Particulars of the following shall be given:-,clause,8
+P2,P,Metal Work,,P2,,"Plates, bars, sections","Metal plates, bars, sections and tubes shall be deemed to be formed by casting, rolling, drawing,",clause,9
+P3,P,Metal Work,,P3,,Floor-plates and,(a) Floor-plates shall be given ins square metres stating the average size. Chequer plates and,clause,10
+P4,P,Metal Work,,P4,,Burglar bars and,"(a) Burglar bars shall be given in linear metres stating the size. Fanged ends, twists, bends",clause,11
+P5,P,Metal Work,,P5,,Handrails and core,(a) Handrails and core rails shall each be given separately in linear metres stating the size,clause,12
+P6,P,Metal Work,,P6,,"Arch-bars, bearers","Arch bars, bearers, stays and the like shall each be given separately in linear metres stating the size.",clause,13
+P7,P,Metal Work,,P7,,"Straps, collars and","Straps, collars, hangers, cantilever-brackets, corbels and the like shall each be enumerated separately",clause,14
+P8,P,Metal Work,,P8,,Mat-frames,Mat-frames shall be enumerated stating the size of the members and the overall size of the frame.,clause,15
+P9,P,Metal Work,,P9,,Coverings and linings,"(a) Coverings to doors, bench-tops, counter tops and the like shall each be given separately in",clause,16
+P10,P,Metal Work,,P10,,Wire mesh and,"(a) Mesh coverings and expanded metal coverings over 300 millimetres wide to partitions,",clause,17
+P11,P,Metal Work,,P11,,Composite units,Composite units (other than standard units) shall be measured in detail in accordance with Clause P12,clause,18
+P15,P,Metal Work,,P15,,generally to,hereof and each unit with its associated labours shall be billed under an appropriate heading,clause,19
+P12,P,Metal Work,,P12,,Members of,(a) Rolled plates over 300 millimetres in both dimensions shall be given in square metres.,clause,20
+P13,P,Metal Work,,P13,,Labours on members,(a) Raking cutting and curved cutting shall each be given separately in linear metres,clause,21
+P14,P,Metal Work,,P14,,Openings partitions of,"Opening portions in balustrades, railings and the like shall each be enumerated separately as extra",clause,22
+P15,P,Metal Work,,P15,,Connections,(a) Cleated connections and plated connections shall each be between enumerated,clause,23
+P16,P,Metal Work,,P16,,Special metal,Special metal windows and special metal doors shall each be enumerated separately stating the,clause,24
+P17,P,Metal Work,,P17,,Standard units,Assembling and jointing together the component parts of composite units and providing any,clause,25
+P18,P,Metal Work,,P18,,Standard metal,"(a) Standard metal windows and doors (complete with frames, mullions, transoms, hinges,",clause,26
+P19,P,Metal Work,,P19,,Steel door frames,Steel door-frames (except those forming an integral part of a door unit) shall be enumerated stating,clause,27
+P20,P,Metal Work,,P20,,Fireproof doors and,"Fireproof doors and strongrooms doors (complete with frames, hinges, fastenings and lugs) shall",clause,28
+P21,P,Metal Work,,P21,,Roof-lights,"Lantern-lights, skylights, laylights, and the like (complete with frames, mullions, ridges, hips, hinges,",clause,29
+P22,P,Metal Work,,P22,,Pavements lights and,"Pavement lights and stallboard lights (complete with frames, lugs and glass lenses) shall each be",clause,30
+P23,P,Metal Work,,P23,,"Skirtings, picture-rails","Skirtings, picture-rails, and the like shall each be given separately in linear metres stating the size and",clause,31
+P24,P,Metal Work,,P24,,Duct covers,Duct-covers (complete with frames and lugs) shall be given in linear metres stating the width and the,clause,32
+P25,P,Metal Work,,P25,,Balustrades and,"Balustrades, railings and the like forming part of a building shall each be given separately in linear",clause,33
+P26,P,Metal Work,,P26,,Collapsible gates and,"Collapsible gates, revolving shutters and the like (complete with frames, guides, tracks, and",clause,34
+P27,P,Metal Work,,P27,,Grilles and gratings,Grilles and gratings (complete with frames and lugs) shall each be enumerated separately stating the,clause,35
+P28,P,Metal Work,,P28,,Surface boxes and,"Surfaces-boxes, inspection-covers, mat-rims and the like (complete with frames and lugs) shall each",clause,36
+P29,P,Metal Work,,P29,,Sectional tanks,"Sectional tanks shall be enumerated stating the capacity, the size and the type",clause,37
+P30,P,Metal Work,,P30,,Holes and slots,"(a) Holes for pipes, tubes, bars, cables, conduits and the like members (grouped together)",clause,38
+P31,P,Metal Work,,P31,,Bolts,"Bolts, anchor-bolts, ragbolts, and the like (except where deemed to be included or where given in the",clause,39
+Q_HEADER,Q,Plumbing and Engineering Installations,,,,,Plumbing and Engineering Installations,section_header,1
+Q_SUB_2,Q,Plumbing and Engineering Installations,Gutterwork,,,,Gutterwork,subsection,2
+Q_SUB_3,Q,Plumbing and Engineering Installations,Pipework,,,,Pipework,subsection,3
+Q_SUB_4,Q,Plumbing and Engineering Installations,Ductwork,,,,Ductwork,subsection,4
+Q_SUB_5,Q,Plumbing and Engineering Installations,Equipment,,,,Equipment,subsection,5
+Q_SUB_6,Q,Plumbing and Engineering Installations,Thermal insulation,,,,Thermal insulation,subsection,6
+Q_SUB_7,Q,Plumbing and Engineering Installations,Builders work,,,,Builders work,subsection,7
+Q1,Q,Plumbing and Engineering Installations,,Q1,,Plumbing and,(a) Work shall be grouped as follows and each group shall be given under an appropriate,clause,8
+Q40,Q,Plumbing and Engineering Installations,,Q40,,Clause,hereof.,clause,9
+Q2,Q,Plumbing and Engineering Installations,,Q2,,Gutters generally,"Rainwater gutters (measured over all gutter- fittings, short running lengths and branches) shall be",clause,10
+Q3,Q,Plumbing and Engineering Installations,,Q3,,Curved gutters,Curved gutters shall be so described stating mean radius,clause,11
+Q4,Q,Plumbing and Engineering Installations,,Q4,,Cutter-joints,"(a) Providing materials, bolts, nuts, washers and everything else necessary for jointing",clause,12
+Q5,Q,Plumbing and Engineering Installations,,Q5,,Gutter fittings,"(a) Gutter-fittings (e.g. bends; angles, shoes, offsets, elbows; junctions; stopped ends; nozzle",clause,13
+Q6,Q,Plumbing and Engineering Installations,,Q6,,Gutter-supports,"Lugs cast on to gutters, brackets and straps shall be given in the description of the gutter",clause,14
+Q7,Q,Plumbing and Engineering Installations,,Q7,,Pipes,"(a) Pipes (measured over all pipe-fittings, short running lengths and branches) shall be given",clause,15
+Q8,Q,Plumbing and Engineering Installations,,Q8,,Special pipework,(a) Curved pipes shall be so described stating the mean radius,clause,16
+Q9,Q,Plumbing and Engineering Installations,,Q9,,Pipe joints,"(a) Providing materials, heat, bolts, nuts, washers and everything else necessary for making",clause,17
+Q10,Q,Plumbing and Engineering Installations,,Q10,,Labours on pipes,"Labours (e.g. made bends, made springs, made offsets) on pipes of all diametres shall each be",clause,18
+Q11,Q,Plumbing and Engineering Installations,,Q11,,Pipe fittings,"(a) Pipe fittings (e.g. bends, springs, swan-necks, offsets, Y- junctions, double Y-junctions,",clause,19
+Q9,Q,Plumbing and Engineering Installations,,Q9,,unions) except fillings as Clause,(b) shall each be enumerated separately as extra over,clause,20
+Q12,Q,Plumbing and Engineering Installations,,Q12,,Pipe supports,(a) Particulars of the method of fixing shall be given in the description of pipe-supports as,clause,21
+Q1,Q,Plumbing and Engineering Installations,,Q1,,Clause,(g) hereof. Culling and pinning ends of pipe supports shall be given in the,clause,22
+Q13,Q,Plumbing and Engineering Installations,,Q13,,Pipe-sleeves and,"(a) Pipe-sleeves shall be enumerated stating the length thereof, the size and kind of pipe",clause,23
+Q14,Q,Plumbing and Engineering Installations,,Q14,,Inspection doors,Inspection doors in pipes shall be enumerated as extra over the pipe in which they occur stating the,clause,24
+Q15,Q,Plumbing and Engineering Installations,,Q15,,Dampers,Dampers in pipes shall be enumerated as extra over the pipe in which they occur stating the method,clause,25
+Q16,Q,Plumbing and Engineering Installations,,Q16,,"Traps, thimbles","Traps, thimbles, ferrules, cones and the like shall each be enumerated stating the size thereof,",clause,26
+Q17,Q,Plumbing and Engineering Installations,,Q17,,Rainwater - heads,"Rainwater, roof-outlets and the like shall each be enumerated separately stating the type, the size",clause,27
+Q18,Q,Plumbing and Engineering Installations,,Q18,,Hopper-heads,"Hopper-heads and the like shall be enumerated stating the type thereof, the kind of pipe to which",clause,28
+Q19,Q,Plumbing and Engineering Installations,,Q19,,Gratings,Gratings shall be enumerated stating the size of pipe or outlet to which it is attached,clause,29
+Q20,Q,Plumbing and Engineering Installations,,Q20,,"Cowls, terminals, etc","(a) Cowls, terminals, hinged flaps, cross-wired ends and the like shall each be enumerated",clause,30
+Q21,Q,Plumbing and Engineering Installations,,Q21,,Exhaust heads,"Exhaust heads shall be enumerated stating the number, type and size of the connections.",clause,31
+Q22,Q,Plumbing and Engineering Installations,,Q22,,Driptrays tundishes,"Drip-trays and tundishes shall each be enumerated separately and stating the number, type and size",clause,32
+Q23,Q,Plumbing and Engineering Installations,,Q23,,Independent,(a) Independent vertical steel chimneys shall be enumerated stating the internal diameter,clause,33
+Q24,Q,Plumbing and Engineering Installations,,Q24,,Connections,"Connecting the ends of pipes at public mains, making good public highways and to mains any other",clause,34
+Q25,Q,Plumbing and Engineering Installations,,Q25,,Equipment generally,All items of equipment shall be enumerated and fully described,clause,35
+Q26,Q,Plumbing and Engineering Installations,,Q26,,Water tanks,"Expansion tanks, water-storage tanks and condense-water tanks shall each be enumerated",clause,36
+Q27,Q,Plumbing and Engineering Installations,,Q27,,Hot water and,(a) Hot water cylinders and thermal-storage cylinders shall be enumerated separately stating,clause,37
+Q28,Q,Plumbing and Engineering Installations,,Q28,,Appliances generally,"Assembling, providing mating flanges, couplings and everything necessary for jointing shall be",clause,38
+Q29,Q,Plumbing and Engineering Installations,,Q29,,Sanitary appliances,"Baths, lavatory-basins, wash-tubs, showers, WC pans, WC suites, sinks, urinals, flushing cisterns,",clause,39
+Q30,Q,Plumbing and Engineering Installations,,Q30,,Fire-fighting,"Fire-fighting appliances, foam-inlets, hydrants, extinguishers, blankets, buckets, fire house reels,",clause,40
+Q31,Q,Plumbing and Engineering Installations,,Q31,,Ancillaries generally,"(a) Providing mating flanges, couplings, and everything necessary for jointing shall be",clause,41
+Q32,Q,Plumbing and Engineering Installations,,Q32,,Valves and cocks,"Valves, cocks taps and other special fittings shall each be enumerated separately stating the type and",clause,42
+Q33,Q,Plumbing and Engineering Installations,,Q33,,Sleeves and holes,(a) Sleeves shall be given in number grouped for pipes not exceeding 100m diameter and,clause,43
+Q34,Q,Plumbing and Engineering Installations,,Q34,,Thermal insulation,(a) Particulars of the following shall be given:-,clause,44
+Q34,Q,Plumbing and Engineering Installations,,Q34,,Insulation to plant,(a) Insulation to cylinders; tanks; and the like shall be enumerated stating the overall size or,clause,45
+Q35,Q,Plumbing and Engineering Installations,,Q35,,Insulation of,(a) Insulation to pipework shall be given in linear metres stating the type and bore of the,clause,46
+Q36,Q,Plumbing and Engineering Installations,,Q36,,Marking positions,"Marking the position of holes, mortices, chases and the like in the structure for each installation",clause,47
+Q37,Q,Plumbing and Engineering Installations,,Q37,,Plans of the,Preparation plans or diagrams of the installation as fitted shall be given as an item stating the kind of,clause,48
+Q38,Q,Plumbing and Engineering Installations,,Q38,,Testing the,Testing each installation shall be given as an item and fully described,clause,49
+Q39,Q,Plumbing and Engineering Installations,,Q39,,Builder’s work,Builder’s work in connection with plumbing and drainage installations shall be grouped together,clause,50
+Q40,Q,Plumbing and Engineering Installations,,Q40,,Cutting and pinning,"Cutting, pinning and making good ends of supports for equipment, appliances, fittings and the like",clause,51
+Q41,Q,Plumbing and Engineering Installations,,Q41,,Cutting away and,Cutting away for and making good after the plumbers and engineers shall be given as follows:-,clause,52
+R_HEADER,R,Mechanical Engineering Installation,,,,,Mechanical Engineering Installation,section_header,1
+R_SUB_2,R,Mechanical Engineering Installation,Piped Systems,,,,Piped Systems,subsection,2
+R_SUB_3,R,Mechanical Engineering Installation,Conveying installations,,,,Conveying installations,subsection,3
+R_SUB_4,R,Mechanical Engineering Installation,Ductwork,,,,Ductwork,subsection,4
+R1,R,Mechanical Engineering Installation,,R1,,Mechanical,(a) Work shall be grouped as follows and each group shall be given under an appropriate,clause,5
+R2,R,Mechanical Engineering Installation,,R2,,Measurement of,Measurement of pipework shall be given in accordance with section Q hereof,clause,6
+R3,R,Mechanical Engineering Installation,,R3,,Ducting,"(a) Ducting (measured over all duct-fittings, short running lengths and branches) shall be",clause,7
+R4,R,Mechanical Engineering Installation,,R4,,Ducting joints,"(a) Providing materials, heat, bolts, nuts, washers and everything else necessary for making",clause,8
+R5,R,Mechanical Engineering Installation,,R5,,Ducting fittings,Ducting-fittings (e.g. stop-ends; bends; offsets; diminishing pieces; change-of-section pieces; junction,clause,9
+R6,R,Mechanical Engineering Installation,,R6,,Ducting supports,(a) Particulars of the method of fixing shall be given in the description of ducting supports as,clause,10
+R7,R,Mechanical Engineering Installation,,R7,,Extract-hoods cowls,"Extra-hoods, cowls, terminals and the like shall each be enumerated separately stating the size and",clause,11
+R8,R,Mechanical Engineering Installation,,R8,,"Ducting, insulation","Insulation and protection wrappings, coatings and linings to ducting shall be given in linear metres",clause,12
+R9,R,Mechanical Engineering Installation,,R9,,Equipment generally,All items of equipment shall be enumerated and fully described.,clause,13
+R10,R,Mechanical Engineering Installation,,R10,,"Diffuses, grilles","Diffusers, Grilles, attenuators, dampers and filters shall each be enumerated separately stating the",clause,14
+R11,R,Mechanical Engineering Installation,,R11,,Lifts,(a) Lift installations shall be suitably grouped under heading stating whether a single lift,clause,15
+R12,R,Mechanical Engineering Installation,,R12,,"Hoists, escalators and",Hoist escalator and conveyor installation shall be given in accordance with the rules of clause R10,clause,16
+R13,R,Mechanical Engineering Installation,,R13,,Material handling,"Installations such as material handling, refuse disposal, waste compaction incineration, etc., shall be",clause,17
+R14,R,Mechanical Engineering Installation,,R14,,Testing and,An item shall be given for testing and commissioning and descriptions shall include details of any,clause,18
+R15,R,Mechanical Engineering Installation,,R15,,"Drawings, manuals, etc","An item shall be given for the provision of fitted drawings, manuals, operative training, etc.",clause,19
+R16,R,Mechanical Engineering Installation,,R16,,Identification markets,"Description shall be deemed to include identification markers, direction indicators, labels, legend",clause,20
+R17,R,Mechanical Engineering Installation,,R17,,Replacement parts,"Replacement parts, tool kits. etc., shall be enumerated.",clause,21
+R18,R,Mechanical Engineering Installation,,R18,,Works by other trades,Works by other trades integral with mechanical installations shall be given in accordance with the,clause,22
+S_HEADER,S,Electrical Installation,,,,,Electrical Installation,section_header,1
+S_SUB_2,S,Electrical Installation,Equipment and control gear,,,,Equipment and control gear,subsection,2
+S_SUB_3,S,Electrical Installation,"Conduits, trunking and tray",,,,"Conduits, trunking and tray",subsection,3
+S_SUB_4,S,Electrical Installation,Cables and conductors,,,,Cables and conductors,subsection,4
+S_SUB_5,S,Electrical Installation,Fittings and accessories,,,,Fittings and accessories,subsection,5
+S_SUB_6,S,Electrical Installation,Sundries,,,,Sundries,subsection,6
+S_SUB_7,S,Electrical Installation,Builder’s work,,,,Builder’s work,subsection,7
+S_SUB_8,S,Electrical Installation,Protection,,,,Protection,subsection,8
+S1,S,Electrical Installation,,S1,,Electrical installation,(a) Work shall be grouped as follows and each group shall be given under an appropriate,clause,9
+S2,S,Electrical Installation,,S2,,Equipment,Equipment (e.g. prime-movers; generators; motors; fans; mechanical drives; batteries; rectifiers;,clause,10
+S3,S,Electrical Installation,,S3,,Control-gear,Control-gear (e.g. fuse-and-Iink disconnecting boxes; isolator-switches; changeoverswitches; switch-,clause,11
+S4,S,Electrical Installation,,S4,,Conduits,"(a) Conduits (measured over all conduit-boxes, conduit fittings, short running lengths and",clause,12
+S5,S,Electrical Installation,,S5,,Trunking,"(a) Trunking (measured over all trunking-fillings, short running lengths and branches) shall",clause,13
+S6,S,Electrical Installation,,S6,,Tray,"(a) Tray for cables shall be given in linear metres stating the width, the method of jointing",clause,14
+S7,S,Electrical Installation,,S7,,Cables,"(a) Cables in conduits, ducts or trunking and cables fixed to tray shall be measured as the net",clause,15
+S8,S,Electrical Installation,,S8,,Cable joints,"(a) Cable-joints shall be enumerated stating the type and size of cable. Joint-boxes, sealing-",clause,16
+S9,S,Electrical Installation,,S9,,Cable supports,"(a) Components for supporting cables (e.g. saddles, cleats, clips; changers; suspenders)",clause,17
+S10,S,Electrical Installation,,S10,,Cable-termination,(a) Cable termination glands shall be enumerated stating type and size of the cable and the,clause,18
+S11,S,Electrical Installation,,S11,,Cable sleeves,(a) Supplying cable-sleeves (e.g. short lengths of metal pipe or of stoneware conduit) for,clause,19
+S12,S,Electrical Installation,,S12,,Cable protection,Cables protection such as slabs and metal sheeting and warning devices such as PVC marker tapes,clause,20
+S13,S,Electrical Installation,,S13,,Earthing,"(a) Tapes for earthing shall be given in linear metres stating the size. Saddles, cleats, clips,",clause,21
+S14,S,Electrical Installation,,S14,,Lighting Conductors,(a) Lighting conductors shall be given in accordance with the rules for earthing,clause,22
+S15,S,Electrical Installation,,S15,,Lighting fittings,(a) Pendant fittings (e.g. plain flexible cord pendants; conduit pendants; cham pendants),clause,23
+S16,S,Electrical Installation,,S16,,"Clocks, telephone","(a) Clocks, bells, geysers, stores, heaters, thermostats, starters, motors, stand-by equipment,",clause,24
+S17,S,Electrical Installation,,S17,,Accessories,Accessories (e.g. switches; sockets-outlets; switch-socket-outlets; clock-connector points;,clause,25
+S18,S,Electrical Installation,,S18,,Marking positions,"Marking the positions of holes, mortices, chases and the like in the structure shall be given as an",clause,26
+S19,S,Electrical Installation,,S19,,Identification positions,"Plates, discs and labels for the identification of plant, equipment, cables, switches and the like shall",clause,27
+S20,S,Electrical Installation,,S20,,"Loose keys, tools and","Loose keys, tools, spares and the like shall each be enumerated separately stating the type and",clause,28
+S21,S,Electrical Installation,,S21,,Electric meters,Electric meters shall be enumerated stating the capacity and the type. Connecting the cable-tails,clause,29
+S22,S,Electrical Installation,,S22,,Connections to mains,"Connecting the ends of cables to public mains, making good public high ways and other work which",clause,30
+S23,S,Electrical Installation,,S23,,Temporary operation,Temporarily operating each electrical installation shall be given as an item stating any required,clause,31
+S24,S,Electrical Installation,,S24,,Disconnecting and,"Disconnecting, setting aside and refixing equipment (e.g. radiators; convectors) for the convenience",clause,32
+S25,S,Electrical Installation,,S25,,Plans of the installation,Preparing plans or diagrams of the electrical installation as fitted shall be given as an item stating,clause,33
+S26,S,Electrical Installation,,S26,,Testing the installations,Testing the installations shall be given as an item stating particulars of any special insurance cover,clause,34
+S27,S,Electrical Installation,,S27,,Builder’s work,Builder’s work in connection with the electrical installations shall be grouped together,clause,35
+S28,S,Electrical Installation,,S28,,Cable trenches,(a) Excavating cable -trenches shall be given in linear metres stating the average depth to,clause,36
+S29,S,Electrical Installation,,S29,,Cable ducts and,"Duct-trenches, stoneware ducts and inspection chambers for underground cables shall be given in",clause,37
+S30,S,Electrical Installation,,S30,,Bedding and pointing,"Bedding and pointing components or units of plant appliances, pointing and the like shall be",clause,38
+S31,S,Electrical Installation,,S31,,Cutting and pinning,"Cutting and pinning ends of supports for equipment appliances, fittings, trunking, tray and the like",clause,39
+S32,S,Electrical Installation,,S32,,Cutting away and,(a) In new structures (i.e. structures in the course of construction) cutting away for and,clause,40
+S33,S,Electrical Installation,,S33,,Pylons and poles,"(a) Pylons, poles, hut-posts, wall-brackets, pole-brackets, pole-stays and the like for",clause,41
+S34,S,Electrical Installation,,S34,,Metal work,"Metalwork in connection with the electrical installation (e.g. framework for supporting plant,",clause,42
+S35,S,Electrical Installation,,S35,,Protection,"Where the work involves the use of mineral insulated copper-covered cable, protecting such cable",clause,43
+S36,S,Electrical Installation,,S36,,Electronic installation,"Installations such as telecommunication, public address, closed circuit television, data transmission,",clause,44
+T_HEADER,T,"Floor, Wall and Ceiling Finishes",,,,,"Floor, Wall and Ceiling Finishes",section_header,1
+T_SUB_2,T,"Floor, Wall and Ceiling Finishes",In-situ finishings,,,,In-situ finishings,subsection,2
+T_SUB_3,T,"Floor, Wall and Ceiling Finishes","Tile, slab or block finishings",,,,"Tile, slab or block finishings",subsection,3
+T_SUB_4,T,"Floor, Wall and Ceiling Finishes",Plain sheet finishings,,,,Plain sheet finishings,subsection,4
+T_SUB_5,T,"Floor, Wall and Ceiling Finishes",Beds and backings,,,,Beds and backings,subsection,5
+T_SUB_6,T,"Floor, Wall and Ceiling Finishes",Lathing and baseboarding,,,,Lathing and baseboarding,subsection,6
+T_SUB_7,T,"Floor, Wall and Ceiling Finishes",Suspended plain sheet linings with supporting metal work,,,,Suspended plain sheet linings with supporting metal work,subsection,7
+T_SUB_8,T,"Floor, Wall and Ceiling Finishes",Self-finished partitions,,,,Self-finished partitions,subsection,8
+T1,T,"Floor, Wall and Ceiling Finishes",,T1,,"Floor, wall and ceiling",(a) Work shall be grouped according to the kind of material and each group with its,clause,9
+T2,T,"Floor, Wall and Ceiling Finishes",,T2,,In-situ finishings,(a),clause,10
+T3,T,"Floor, Wall and Ceiling Finishes",,T3,,Floors and pavings,"(a) Floors and pavings to fall, cross-falls and slopes not exceeding 15 degrees from",clause,11
+T4,T,"Floor, Wall and Ceiling Finishes",,T4,,Walls and ceilings,(a) Work to walls and ceilings shall each be given separately in square metres. Work to,clause,12
+T5,T,"Floor, Wall and Ceiling Finishes",,T5,,Staircases,(a) Work to quarter-space and half space landings (grouped together) shall be given in,clause,13
+T8,T,"Floor, Wall and Ceiling Finishes",,T8,,landings shall be given in accordance with Clause,(b) hereof.,clause,14
+T6,T,"Floor, Wall and Ceiling Finishes",,T6,,Labours on finishings,(a) All joints and fair joints to abutments and boundaries shall be deemed to be included,clause,15
+T7,T,"Floor, Wall and Ceiling Finishes",,T7,,Dividing strips,"Dividing strips in finishings shall be given in linear metres stating the size. Ends, angles and",clause,16
+T8,T,"Floor, Wall and Ceiling Finishes",,T8,,Skirtings bands and,(a) Skirtings shall be given in linear metres stating the height on face. Raking skirtings and,clause,17
+T9,T,"Floor, Wall and Ceiling Finishes",,T9,,Kerbs,Work to kerbs shall be given in linear metres stating the girth on face. Raking kerbs and vertical,clause,18
+T10,T,"Floor, Wall and Ceiling Finishes",,T10,,Channels,(a) Working finishings into shallow channels shall be given in linear-metres as extra over the,clause,19
+T11,T,"Floor, Wall and Ceiling Finishes",,T11,,Mouldings and cornices,"(a) Architraves, mouldings, ceiling-ribs and cornices (measured on face of wall or beam) shall",clause,20
+T12,T,"Floor, Wall and Ceiling Finishes",,T12,,"Flush, raised or sunk","Flush, raised or sunk panels of contrasting colour (or of different material) in finishings shall each be",clause,21
+T13,T,"Floor, Wall and Ceiling Finishes",,T13,,Metal beads,"Metal angle-beads, screed-beads and casing-beads in plasterwork shall each be given separately in",clause,22
+T14,T,"Floor, Wall and Ceiling Finishes",,T14,,Ornaments,"Ornaments cast in situ, air gratings and the like shall be enmanated and including description of the",clause,23
+T15,T,"Floor, Wall and Ceiling Finishes",,T15,,Metal lathing,Metal lathing and the like to receive in-situ finishes shall be given in square metres and the,clause,24
+T16,T,"Floor, Wall and Ceiling Finishes",,T16,,"Tile, slab or block",(a) Particulars of the following shall be given:-,clause,25
+T17,T,"Floor, Wall and Ceiling Finishes",,T17,,Floors pavements,"(a) Work to floors, pavements, walls, ceilings and staircases shall be given in accordance",clause,26
+T4,T,"Floor, Wall and Ceiling Finishes",,T4,,"walls, etc with the rules for in-situ finishings in Clause n, T3","and T5 hereof, except that glass",clause,27
+T16,T,"Floor, Wall and Ceiling Finishes",,T16,,coverings having any of the labours mentioned in Clause,paragraphs (d) (e) (g) (h) (j),clause,28
+T18,T,"Floor, Wall and Ceiling Finishes",,T18,,Labour on finishings,(a) Square cutting shall be deemed to be included with the items,clause,29
+T19,T,"Floor, Wall and Ceiling Finishes",,T19,,Dividing strips,"Dividing strips in finishings shall be given in linear metres stating the size. Ends, angles and",clause,30
+T20,T,"Floor, Wall and Ceiling Finishes",,T20,,"Skirtings, bands",(a) Skirtings shall be given in linear metres stating the extreme height. Raking skirtings and,clause,31
+T21,T,"Floor, Wall and Ceiling Finishes",,T21,,Kerbs,(a) Work to kerbs shall be given in linear metres stating the girth on face. Raking kerbs and,clause,32
+T22,T,"Floor, Wall and Ceiling Finishes",,T22,,Channels,Block and scum channels and linings to channels shall each be given separately in linear metres,clause,33
+T23,T,"Floor, Wall and Ceiling Finishes",,T23,,Covers and mouldings,"Special tiles and special slabs to form coved internal angles of any radius, rounded external angles",clause,34
+T24,T,"Floor, Wall and Ceiling Finishes",,T24,,"Flush, raised sunk","Flush, raised or sunk panels of contrasting colour (or of different or materials) in finishings shall each",clause,35
+T25,T,"Floor, Wall and Ceiling Finishes",,T25,,Plain sheet finishings,(a) Particulars of the following shall be given:-,clause,36
+T26,T,"Floor, Wall and Ceiling Finishes",,T26,,Floor finishings,Finishings to floors shall be given in accordance with the rules for in-situ finishings in,clause,37
+T3,T,"Floor, Wall and Ceiling Finishes",,T3,,Clause,hereof.,clause,38
+T27,T,"Floor, Wall and Ceiling Finishes",,T27,,Wall and ceiling,(a) Finishings to walls and ceilings shall each be given separately in accordance with the,clause,39
+T4,T,"Floor, Wall and Ceiling Finishes",,T4,,finishings rules for in-situ finishings in Clause,hereof.,clause,40
+T28,T,"Floor, Wall and Ceiling Finishes",,T28,,Labours on finishings,(a) Square cutting shall be demed to be included with the items,clause,41
+T29,T,"Floor, Wall and Ceiling Finishes",,T29,,Beds and backings,(a) Particulars of the following shall be given:-,clause,42
+T2,T,"Floor, Wall and Ceiling Finishes",,T2,,iv. Nature of base as Clause,(b) (v) hereof,clause,43
+T30,T,"Floor, Wall and Ceiling Finishes",,T30,,Beds and backings for,"(a) Screeds, beds and backing for floor, wall, ceiling and roof finishings shall be given in",clause,44
+T3,T,"Floor, Wall and Ceiling Finishes",,T3,,"floor, wall, ceiling and accordance with the rules for in-situ finishings in Clause",and T4 hereof stating the type,clause,45
+T6,T,"Floor, Wall and Ceiling Finishes",,T6,,Clause,hereof shall be deemed to roof finishings be included with the items,clause,46
+T31,T,"Floor, Wall and Ceiling Finishes",,T31,,Lathing and,(a) Particulars of the following shall be given:-,clause,47
+T32,T,"Floor, Wall and Ceiling Finishes",,T32,,Baseboarding,Base boarding (e.g. plaster-boarding) for wall and ceiling finishings shall be given in the description,clause,48
+T33,T,"Floor, Wall and Ceiling Finishes",,T33,,Metal lathing,(a) Metal lathing over 300 millimetres wide for floor wall and ceiling finishings shall each be,clause,49
+T34,T,"Floor, Wall and Ceiling Finishes",,T34,,Suspended plain sheet,(a) Particulars of the following shall be given:-,clause,50
+T35,T,"Floor, Wall and Ceiling Finishes",,T35,,"Wall, ceiling and roof",(a) Linings over 300 millimetres wide shall be given in square metres. Those not exceeding,clause,51
+T36,T,"Floor, Wall and Ceiling Finishes",,T36,,Metal trim,Metal trim at edges of linings shall be given in linear metres stating the size and method of fixing.,clause,52
+T37,T,"Floor, Wall and Ceiling Finishes",,T37,,Self-finished partitions,"Self-finished partitions (e.g., precast terrazzo; precast mosaic) shall be given in accordance with the",clause,53
+U_HEADER,U,Glazing,,,,,Glazing,section_header,1
+U_SUB_2,U,Glazing,Glass in openings,,,,Glass in openings,subsection,2
+U_SUB_3,U,Glazing,Leaded lights and copper lights in openings,,,,Leaded lights and copper lights in openings,subsection,3
+U_SUB_4,U,Glazing,Patent glazing,,,,Patent glazing,subsection,4
+U_SUB_5,U,Glazing,Dome-lights,,,,Dome-lights,subsection,5
+U1,U,Glazing,,U1,,Glazing generally,(a) Work shall be grouped according to the kind and quality of glass and each group with its,clause,6
+U2,U,Glazing,,U2,,Panes general,(a) Particulars of the following shall be given:-,clause,7
+U3,U,Glazing,,U3,,Glass generally,"Sheet glass, rolled or cast glass, plate float or toughened glass shall each be given separately",clause,8
+U4,U,Glazing,,U4,,Labours on glass panes,(a) Raking cutting shall be deemed to be included with the items.,clause,9
+U5,U,Glazing,,U5,,Drilled panes,Drilled panes shall be enumerated stating the size of the pane and the diameter and number of the,clause,10
+U6,U,Glazing,,U6,,Bent panes,"Bent panes shall be enumerated stating the size of the pane, the radius or girth of the bend and",clause,11
+U7,U,Glazing,,U7,,Brilliant cut panes,Brilliant cut panes and panes with other decorative work shall each cut panes be enumerated,clause,12
+U8,U,Glazing,,U8,,Silvered panes,Silvered panes shall be enumerated stating the size of the pane. Coloured silvering and gold,clause,13
+U9,U,Glazing,,U9,,Glass jointing,"Glazing gaskets, cover beading and sealing of joints in panes with silicone and the like shall be given",clause,14
+U10,U,Glazing,,U10,,Hermetically sealed,Double or multiple factory-made hermetically-sealed units shall sealed units be enumerated stating,clause,15
+U11,U,Glazing,,U11,,Glass louvres,Glass louvres shall be enumerated stating the size; alternatively they may be given in linear metres,clause,16
+U12,U,Glazing,,U12,,Bedding in strip,Bedding edges of panes in strips or channels shall be given in linear metres stating the kind of,clause,17
+U13,U,Glazing,,U13,,Hacking out,Hacking out old glass and preparing rebates (measured the perimeter of the pane) shall be given in,clause,18
+U14,U,Glazing,,U14,,"Glass to tops, shelves","Gloss shall be enumerated stating the size of, thickness and method affixing and descriptions shall",clause,19
+U15,U,Glazing,,U15,,Lights generally,(a) Particulars in accordance with clause U2 (a) hereof shall e given with the addition of the,clause,20
+U16,U,Glazing,,U16,,Light in openings,(a) Leaded lights and copper lights over 300 millimetres in both dimensions shall each be,clause,21
+U16,U,Glazing,,U16,,Lights in openings,"(b) Lights with shaped heads, trefoils, quatre-foils and the like below the springing shall be",clause,22
+U17,U,Glazing,,U17,,Labours on glass in,Raking cutting and curved cutting on glass in lights shall be deemed to be included to be included,clause,23
+U18,U,Glazing,,U18,,Bent lights,"Bent lights shall be enumerated stating the size of the light, the radius or girth of the bend and",clause,24
+U19,U,Glazing,,U19,,Saddle bars,"Saddle bars shall be given in linear metres stating the material, the size of the bar and the method",clause,25
+U20,U,Glazing,,U20,,Mirror,Mirrors shall be enumerated stating the size and the method of fixing. Coloured mirrors shall be so,clause,26
+U21,U,Glazing,,U21,,Patent Glazing,(a) Patent glazing (measured over bars) shall be given in square metres stating the length,clause,27
+U22,U,Glazing,,U22,,Labours on patent,Raking cutting and curved cutting shall each be given separately in linear metres,clause,28
+U23,U,Glazing,,U23,,Dome-lights,"Done-lights shall be enumerated stating the overall size, the shape and the method of fixing",clause,29
+V_HEADER,V,Painting and Decorating,,,,,Painting and Decorating,section_header,1
+V_SUB_2,V,Painting and Decorating,Painting and similar work,,,,Painting and similar work,subsection,2
+V_SUB_3,V,Painting and Decorating,Polishing,,,,Polishing,subsection,3
+V_SUB_4,V,Painting and Decorating,Sign writing,,,,Sign writing,subsection,4
+V1,V,Painting and Decorating,,V1,,Painting and decorating,(a) Work shall be grouped as follows and each group shall be given under an,clause,5
+V2,V,Painting and Decorating,,V2,,Painting and similar,(a) Particulars of the following shall be given:-,clause,6
+V3,V,Painting and Decorating,,V3,,On general surfaces,(a) Work on surfaces over 300 millimetres girth shall be given in square metres. Work on,clause,7
+V4,V,Painting and Decorating,,V4,,On wood frames,"(a) Work on wood frames, linings, architraves, mullions and transomes (measured each side)",clause,8
+V3,V,Painting and Decorating,,V3,,wooden windows and shall be given in accordance with Clause,hereof.,clause,9
+V5,V,Painting and Decorating,,V5,,On metal windows and,(a) Work on metal windows and glazed metal doors (grouped together and measured on,clause,10
+V6,V,Painting and Decorating,,V6,,On structural steelwork,"Work on structural steelwork shall be given in square metres. Work on members of roof trusses,",clause,11
+V7,V,Painting and Decorating,,V7,,"On grilles, balustrades","(a) Work on ornamental grilles, ornamental balustrades, ornamental railings, ornamental",clause,12
+V8,V,Painting and Decorating,,V8,,On gutters,"(a) Work over 300 millimetres girth on valley-gutters, parapet gutters and the like",clause,13
+V9,V,Painting and Decorating,,V9,,On Pipes,(a) Work on small pipes shall be given in linear metres,clause,14
+V10,V,Painting and Decorating,,V10,,"On bars, cables","Work over 300 millimetres girth on bars, cables, conduits, standards, straps, ducting, trunking, tray",clause,15
+V11,V,Painting and Decorating,,V11,,On Sundries,"(a) Work on saddles, pipehooks, holderbats and the like shall be deemed to be included",clause,16
+V12,V,Painting and Decorating,,V12,,Polishing,(a) Particulars of the following shall be given:-,clause,17
+V13,V,Painting and Decorating,,V13,,Sign writing,"Letters or numerals, stops, direction-indicators and the like shall each be enumerated",clause,18
+W_HEADER,W,Drainage,,,,,Drainage,section_header,1
+W_SUB_2,W,Drainage,Work in all trades,,,,Work in all trades,subsection,2
+W1,W,Drainage,,W1,,External Drainage and,Site works and services shall be grouped as follows and each group shall be given under an,clause,3
+W2,W,Drainage,,W2,,Drainage generally,(a) Any information available concerning the nature of the ground and strata and particulars,clause,4
+W3,W,Drainage,,W3,,Pipe trenches,(a) Excavating pipe trenches shall be given in linear metres stating the starting level if other,clause,5
+W4,W,Drainage,,W4,,Beds benching and,"Concrete beds, benchings and coverings shall each be given separately in linear metres stating the",clause,6
+W5,W,Drainage,,W5,,Pipes,(a) Pipes of any material (measured over all pipe-fittings) shall be given in linear metres,clause,7
+W6,W,Drainage,,W6,,Accessories,Accessories (e.g. gullies; traps; inspection shoes; fresh air inlets; non return flaps) shall each be,clause,8
+W7,W,Drainage,,W7,,Open surface water,Open surface water channels and drains shall be given in linear metres and fully described.,clause,9
+W8,W,Drainage,,W8,,Manholes soakaways,"(a) Inspection chambers, manholes, soakaways and the like (grouped together) shall be",clause,10
+W9,W,Drainage,,W9,,Connections to sewers,Connecting ends of drains to public highways and any other work which may only be carried out by,clause,11
+W10,W,Drainage,,W10,,Testing drains,Testing the drainage system shall be given as an item stating the method of testing,clause,12
+W11,W,Drainage,,W11,,Water reticulation,(a) Work shall be grouped as follows and each group shall be given under an appropriate,clause,13
+X_HEADER,X,Landscaping,,,,,Landscaping,section_header,1
+X1,X,Landscaping,,X1,,Landscaping generally,(a) Particulars of the following shall be given,clause,2
+X2,X,Landscaping,,X2,,"Seeding, turfing and",(a) Particulars of the following shall be given,clause,3
+X3,X,Landscaping,,X3,,Planting,(a) Particulars of the following shall be given,clause,4
+X4,X,Landscaping,,X4,,"Watering, maintaining","Watering, pruning, mowing, maintaining and protection of seedings/turves/grassing/plantings shall",clause,5
+X5,X,Landscaping,,X5,,Contouring,"Excavations, filling, etc., shall be given in accordance with the rules laid down under “Excavation and",clause,6
+X6,X,Landscaping,,X6,,"Topsoil, compost lime","Topsoil and compost shall be given in cubic metres, filling to plant boxes being given separately.",clause,7
+X7,X,Landscaping,,X7,,Prunning of existing,Prunning of existing trees and shrubs shall be enumerated stating the type of shrub.,clause,8
+X8,X,Landscaping,,X8,,Rockery boulders,Rockery boulders shall be suitably grouped and be enumerated.,clause,9
+X9,X,Landscaping,,X9,,Retaining structures,"Retaining structures formed or filled gabion boxes and mattresses, concrete precast concrete,",clause,10
+X10,X,Landscaping,,X10,,Pebble coverings,Pebble covering shall be given in square metres stating the type and thickness.,clause,11
+X11,X,Landscaping,,X11,,"Ponds, water features","Ponds, water features, etc., formed of concrete, precast concrete masonry, etc., shall be given in",clause,12
+X12,X,Landscaping,,X12,,Irrigation system,Irrigation systems shall be given in accordance with the principles laid down in the relevant trades.,clause,13
+Y_HEADER,Y,Roadworks,,,,,Roadworks,section_header,1
+Y_SUB_2,Y,Roadworks,Generally to Section Y,,,,Generally to Section Y,subsection,2
+Y1,Y,Roadworks,,Y1,,Roadworks generally,(a) Roadworks shall be classified according to,clause,3
+Y2,Y,Roadworks,,Y2,,"Excavations, filling","Excavations, filling bases, etc., shall be given in accordance with the rules for “Excavation and",clause,4
+Y3,Y,Roadworks,,Y3,,Insitu concrete roads,Concrete work shall be given in accordance with the rules for “concrete works”,clause,5
+Y4,Y,Roadworks,,Y4,,Coated macadam,(a) Particulars of the following shall be given.,clause,6
+Y5,Y,Roadworks,,Y5,,"Gravel, murram and",(a) The kind and quality of materials and the method of compaction shall be given,clause,7
+Y6,Y,Roadworks,,Y6,,Interlocking bricks,(a) Particulars of the following shall be given,clause,8
+Y7,Y,Roadworks,,Y7,,Road kerbs,"Works to kerbs, channeling, edging, humps and shoulders shall be measured in accordance with the",clause,9
+Y8,Y,Roadworks,,Y8,,Road signs and crash,Works to road signs and crash barriers shall be given in accordance with the rules of the relevant,clause,10
+Y9,Y,Roadworks,,Y9,,"Embarkments, and",Works to embarkments and gabions shall be given in accordance with the rules of the relevant,clause,11
+Y10,Y,Roadworks,,Y10,,Jointing,Movement joint shall be given in linear metres.,clause,12
+Y11,Y,Roadworks,,Y11,,Painting,Paintwork shall be given in accordance with the rules for “Painting and Decorations.”,clause,13
+Z_HEADER,Z,Fencing,,,,,Fencing,section_header,1
+Z_SUB_2,Z,Fencing,Opening-type fencing,,,,Opening-type fencing,subsection,2
+Z_SUB_3,Z,Fencing,Close-type fencing,,,,Close-type fencing,subsection,3
+Z_SUB_4,Z,Fencing,Gates,,,,Gates,subsection,4
+Z1,Z,Fencing,,Z1,,Fencing generally,(a) Particulars of the following shall be given:-,clause,5
+Z2,Z,Fencing,,Z2,,Post-and-wire fencing,"Post -and -wire fencing shall be given in linear meters stating the height of the fencing, the gauge",clause,6
+Z3,Z,Fencing,,Z3,,Post-and-rail fencing,"Post-and-rail fencing shall be given in linear metres stating the height of the fencing, the size and",clause,7
+Z4,Z,Fencing,,Z4,,Chain-link and wire,Chain-link fencing and wire-mesh fencing shall be given separately in linear metres stating the,clause,8
+Z5,Z,Fencing,,Z5,,Metal bar fencing,"(a) Metal bar fencing shall be given in linear metres stating the height of the fencing,",clause,9
+Z6,Z,Fencing,,Z6,,Close-boarded fencing,"Close-boarded fencing shall be given in linear metres stating the height of the fencing, the size and",clause,10
+Z7,Z,Fencing,,Z7,,Built-up concrete,"Built-up concrete fencing shall be given in linear metres stating the height of .the fencing, the size",clause,11
+Z8,Z,Fencing,,Z8,,Corrugated Fencing,"Corrugated fencing shall be given in linear metres stating the height of the fencing, the size and",clause,12
+Z9,Z,Fencing,,Z9,,Gates,"(a) Gates shall be enumerated stating the size and the method of construction. Hinges,",clause,13
